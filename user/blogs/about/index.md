@@ -7,6 +7,11 @@ cover: /qwer.webp
 options:
   - unlisted
 ---
+<script lang="en">
+  import Confetti from 'svelte-confetti'
+</script>
+
+ <Confetti infinite />
 
 ## 🎉 Stephen's Log - Initial Setup
 
@@ -24,47 +29,14 @@ Welcome to my log and postings. You can find information here, I have a develope
 
 - ✍️ [Blog](https://blog.stephenlittleton.com) - A blog website that uses the UNO theme by jekyll. It was a fun project and one of my first productions environment challenges. Orignally was the initial landing page but was moved to the blog subdomain in order to initilize a new site.
 
-- 🧮 🧪 Wirte Math and Chemical formulas with [TeX Syntax](https://www.math.brown.edu/johsilve/ReferenceCards/TeXRefCard.v1.5.pdf) via [Katex](https://katex.org/) & [mhchem](https://mhchem.github.io/MathJax-mhchem/).
-
-- 📁 Folder-based organization for creating posts.
-
-- 🏷️ Multi-Tags filtering.
-
-- 📄 Auto-Generate Table of Content for posts.
-
-- 📦 Out-of-the-box support for [Atom feed](https://validator.w3.org/feed/docs/atom.html), Sitemap, [PWA](https://web.dev/progressive-web-apps/), [JSON Feed](https://www.jsonfeed.org/).
-
-- 🖼️ Automatic image optimization via [vite-imagetools](https://github.com/JonasKruckenberg/imagetools).
-
-- ⚙️ Support embedding Svelte components and Javascript with Markdown.
-
-- 💬 Supports [Giscus](https://github.com/giscus/giscus) - a comments system powerd by Github Discussions.
-
-- 💄 Utilizes [UnoCSS](https://github.com/unocss/unocss) - the instant on-demand atomic CSS engine.
-
-- 🌐 i18n via [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n).
-
-- 🚀 Deploy the blog **Free** on [Vercel](https://vercel.com/) or [Netlify](https://Netlify.com/).
-
-## 📚 Learn More
-
-Please read more at our [Documentation](https://docs-svelte-qwer.vercel.app/).
-
-## 👷 Current State
-
-[QWER](https://github.com/kwchang0831/svelte-QWER) is at its' very early stage. Kindly expect frequent breaking changes.
-
-Just copy and paste your `user` folder to the latest release.
-
-Watch out for the CHANGELOG to see if yor are required to migrate `user/config` or other places.
-
 ## ❓ Issues / Problems / Questions
 
 I'm in the process of implementing some sort of crazy message board using discorse but its on the list. [Just email me](mailto:stephen@stephenlittleton.com).
 
 ## 📝 License
 
-[MIT](https://github.com/kwchang0831/svelte-QWER/blob/main/LICENSE)
+[MIT](https://github.com/stephenxxxx/sllog/blob/main/LICENSE)
+[CC0-1.0 license ](https://github.com/stephenlittleton/sllog/blob/main/LICENSE)
 
 ## 🙏 Credits and Thanks
 

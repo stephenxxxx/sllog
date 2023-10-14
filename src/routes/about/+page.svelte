@@ -7,198 +7,83 @@
   import Video from '$lib/components/video.svelte';
   import CodeCopy from '$lib/components/code_copy.svelte';
   import InfoBox from '$lib/components/info_box.svelte';
+
+  import Confetti from 'svelte-confetti';
 </script>
 
 <Post>
   <article slot="post_content">
-    <h2 id="qwer"><a href="#qwer">🎉 QWER</a></h2>
+    <Confetti infinite />
+
+    <h2 id="stephen-and-39-s-log-initial-setup">
+      <a href="#stephen-and-39-s-log-initial-setup">🎉 Stephen&#39;s Log - Initial Setup</a>
+    </h2>
     <p>
-      <a href="https://github.com/kwchang0831/svelte-QWER" rel="external">QWER</a>
-      is a blog starter and static site generator, built with
-      <a href="https://svelte.dev/" rel="external">Svelte</a>
-      and
-      <a href="https://kit.svelte.dev/" rel="external">SvelteKit</a>
-      .
+      Welcome to my log and postings. You can find information here, I have a developer profile and much more. Links to
+      other works I&#39;ve done and contact information.
     </p>
-    <ImgZoom src="/preview.webp" alt="QWER Preview" />
-
-    <ImgZoom src="/mobile-preview.webp" alt="QWER Mobile Preview" />
-
-    <h2 id="features"><a href="#features">✨ Features</a></h2>
+    <h2 id="some-of-the-works-i-and-39-ve-done">
+      <a href="#some-of-the-works-i-and-39-ve-done">⚡ Some of the Works I&#39;ve Done</a>
+    </h2>
     <ul>
       <li>
         <p>
-          ⚡ Super fast site performance. Near <strong>Perfect</strong>
-          <a href="https://pagespeed.web.dev/" rel="external">PageSpeed</a>
-           score.
+          🎬 <a href="https://nexflix.stephenlittleton.com/intro.html" rel="external">NEXFLIX</a>
+           - A Fun Movie Review Website Written in HTML5 and CSS3 with JEKYLL as a development scaffold. Utilizes DISQUS
+          for leaving comments and chatting.
         </p>
       </li>
       <li>
         <p>
-          🤗 SEO ready with meta, <a href="https://ogp.me/" rel="external">Open Graph</a>
-          ,
-          <a href="https://schema.org/" rel="external">Schema</a>
-          ,
-          <a href="https://json-ld.org/" rel="external">JSON-LD</a>
-          ,
-          <a href="https://indieweb.org/microformats2" rel="external">microformats2</a>
-          .
-        </p>
-      </li>
-      <li><p>🔎 On-site Search.</p></li>
-      <li><p>📱 Mobile-First / Responsive design.</p></li>
-      <li>
-        <p>
-          ✍️ Write post with <a href="https://www.markdownguide.org/basic-syntax/" rel="external">Markdown syntax</a>
-          .
+          🎧 🎚 🎛 <a href="https://musicvidz.stephenlittleton.com/" rel="external">MUSICVIDZ</a>
+           - Simple and plain youtube music video site. Naturally AD-FREE and NO-COOKIE youtube videos. No special coding
+          is applied. Just used the code when you click the share button and you embed with privacy mode.
         </p>
       </li>
       <li>
         <p>
-          🧮 🧪 Wirte Math and Chemical formulas with <a
-            href="https://www.math.brown.edu/johsilve/ReferenceCards/TeXRefCard.v1.5.pdf"
-            rel="external">
-            TeX Syntax
-          </a>
-          via
-          <a href="https://katex.org/" rel="external">Katex</a>
-          &amp;
-          <a href="https://mhchem.github.io/MathJax-mhchem/" rel="external">mhchem</a>
-          .
+          🧮 📱 🧪 <a href="https://stephen730.neocities.org" rel="external">NEOCITIES</a>
+           - A Neocities page, throwback to the old windows style. Jekyll based backend uploaded using WEBDAV.
         </p>
       </li>
-      <li><p>📁 Folder-based organization for creating posts.</p></li>
-      <li><p>🏷️ Multi-Tags filtering.</p></li>
-      <li><p>📄 Auto-Generate Table of Content for posts.</p></li>
+      <li><p>This site / Site utilizes vercel and svelte/qwer theme by kwchang0831. My first svelte project.</p></li>
       <li>
         <p>
-          📦 Out-of-the-box support for <a href="https://validator.w3.org/feed/docs/atom.html" rel="external">
-            Atom feed
-          </a>
-          , Sitemap,
-          <a href="https://web.dev/progressive-web-apps/" rel="external">PWA</a>
-          ,
-          <a href="https://www.jsonfeed.org/" rel="external">JSON Feed</a>
-          .
-        </p>
-      </li>
-      <li>
-        <p>
-          🖼️ Automatic image optimization via <a href="https://github.com/JonasKruckenberg/imagetools" rel="external">
-            vite-imagetools
-          </a>
-          .
-        </p>
-      </li>
-      <li><p>⚙️ Support embedding Svelte components and Javascript with Markdown.</p></li>
-      <li>
-        <p>
-          💬 Supports <a href="https://github.com/giscus/giscus" rel="external">Giscus</a>
-           - a comments system powerd by Github Discussions.
-        </p>
-      </li>
-      <li>
-        <p>
-          💄 Utilizes <a href="https://github.com/unocss/unocss" rel="external">UnoCSS</a>
-           - the instant on-demand atomic CSS engine.
-        </p>
-      </li>
-      <li>
-        <p>
-          🌐 i18n via <a href="https://github.com/ivanhofer/typesafe-i18n" rel="external">typesafe-i18n</a>
-          .
-        </p>
-      </li>
-      <li>
-        <p>
-          🚀 Deploy the blog <strong>Free</strong>
-          on
-          <a href="https://vercel.com/" rel="external">Vercel</a>
-          or
-          <a href="https://Netlify.com/" rel="external">Netlify</a>
-          .
+          ✍️ <a href="https://blog.stephenlittleton.com" rel="external">Blog</a>
+           - A blog website that uses the UNO theme by jekyll. It was a fun project and one of my first productions environment
+          challenges. Orignally was the initial landing page but was moved to the blog subdomain in order to initilize a
+          new site.
         </p>
       </li>
     </ul>
-    <h2 id="learn-more"><a href="#learn-more">📚 Learn More</a></h2>
-    <p>
-      Please read more at our <a href="https://docs-svelte-qwer.vercel.app/" rel="external">Documentation</a>
-      .
-    </p>
-    <h2 id="current-state"><a href="#current-state">👷 Current State</a></h2>
-    <p>
-      <a href="https://github.com/kwchang0831/svelte-QWER" rel="external">QWER</a>
-       is at its&#39; very early stage. Kindly expect frequent breaking changes.
-    </p>
-    <p>
-      Just copy and paste your <code class="inline-code-block">user</code>
-       folder to the latest release.
-    </p>
-    <p>
-      Watch out for the CHANGELOG to see if yor are required to migrate <code class="inline-code-block">
-        user/config
-      </code>
-       or other places.
-    </p>
     <h2 id="issues-problems-questions"><a href="#issues-problems-questions">❓ Issues / Problems / Questions</a></h2>
     <p>
-      Please take advantage of our <a
-        href="https://github.com/kwchang0831/svelte-QWER/discussions/categories/q-a"
-        rel="external">
-        Github&#39;s Q&amp;A Discussion board
+      I&#39;m in the process of implementing some sort of crazy message board using discorse but its on the list. <a
+        href="mailto:stephen@stephenlittleton.com">
+        Just email me
       </a>
       .
     </p>
-    <h2 id="are-you-using-qwer"><a href="#are-you-using-qwer">😊 Are you using QWER?</a></h2>
-    <p>
-      Please consider adding <code class="inline-code-block">svelte-qwer</code>
-       topic to your repository.
-    </p>
-    <p>
-      To see who else are using QWER, please check <a href="https://github.com/topics/svelte-qwer" rel="external">
-        Github-Topics: svelte-qwer
-      </a>
-      .
-    </p>
-    <h2 id="support"><a href="#support">🎉 Support</a></h2>
-    <div
-      class="flex"
-      style="display:inline-block; font-size: 24px; --un-bg-opacity: 1; background-color: rgba(255, 221, 0); border-radius: 0.5rem; padding: 12px 18px; border: 2px solid;">
-      <a class="flex" href="https://www.buymeacoffee.com/kwchang0831" style="color: black;">
-        <span>🥓</span>
-        <span>Buy me a Bacon</span>
-      </a>
-    </div>
-
     <h2 id="license"><a href="#license">📝 License</a></h2>
-    <p><a href="https://github.com/kwchang0831/svelte-QWER/blob/main/LICENSE" rel="external">MIT</a></p>
-    <h2 id="credits"><a href="#credits">🙏 Credits</a></h2>
+    <p>
+      <a href="https://github.com/stephenxxxx/sllog/blob/main/LICENSE" rel="external">MIT</a>
+      <a href="https://github.com/stephenlittleton/sllog/blob/main/LICENSE" rel="external">CC0-1.0 license</a>
+    </p>
+    <h2 id="credits-and-thanks"><a href="#credits-and-thanks">🙏 Credits and Thanks</a></h2>
     <ul>
       <li>
-        <p>
-          Cover Photo by <a
-            href="https://unsplash.com/@jessbaileydesigns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
-            Jess Bailey
-          </a>
-          on
-          <a
-            href="https://unsplash.com/s/photos/note?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">
-            Unsplash
-          </a>
-        </p>
-      </li>
-      <li>
-        <p>
-          Avatar Illustration by <a href="https://icons8.com/illustrations/author/GrbQqWBEhaDS">Liam Moore</a>
-          from
-          <a href="https://icons8.com/illustrations">Ouch!</a>
-        </p>
+        Tons of credits and thanks go out to the developers who are just doing this for fun. We are out there and we
+        just enjoy doing this stuff, we are just loving the technology. Thanks to FIREBASE for providing hosting, thanks
+        to google domains, squarespace, thanks to vercel, svelte, jekyll, kwchang0831, other developers that are out
+        there getting paid and taking the heat. Thanks to the entertainment industry for providing content.
       </li>
     </ul>
     <h2 id="end"><a href="#end">👍 END</a></h2>
     <p>
-      Thanks so much for interesting in <a href="https://github.com/kwchang0831/svelte-QWER" rel="external">QWER</a>
-      . Please try it out and let me know what you think 😊.
+      Thanks so much for interesting in <a href="https://flickr.com/stephen730" rel="external">me</a>
+      . Please try it out and let me know what you think 😊. I am not tracking you, I have no clue who comes and goes.
+      None of this is costing money and its free to explore. Feel free to click on whatever you want as much as you
+      want.
     </p>
   </article>
 </Post>

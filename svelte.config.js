@@ -5,6 +5,7 @@ import adapterNetlify from '@sveltejs/adapter-netlify';
 import adapterCloudflare from '@sveltejs/adapter-cloudflare';
 import preprocess from 'svelte-preprocess';
 
+
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
   preprocess: preprocess({ preserve: ['partytown'] }),

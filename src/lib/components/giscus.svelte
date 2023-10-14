@@ -3,7 +3,7 @@
   import { onMount } from 'svelte';
   import { giscusConfig } from '$config/site';
 
-  export let theme: string;
+  
 
   onMount(() => {
     if (!giscusConfig.enable) return;
@@ -18,7 +18,7 @@
       'data-mapping': giscusConfig.mapping,
       'data-reactions-enabled': giscusConfig.reactionsEnabled,
       'data-input-position': giscusConfig.inputPosition ?? 'bottom',
-      'data-theme': theme ?? 'preferred_color_scheme',
+      'data-theme': giscusConfig.theme ?? 'preferred_color_scheme',
       'data-lang': giscusConfig.lang ?? 'en',
       'data-loading': giscusConfig.loading ?? '',
       'data-strict': giscusConfig['data-strict'] ?? '0',

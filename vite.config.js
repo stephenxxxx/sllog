@@ -11,6 +11,7 @@ import path from 'node:path';
 import { partytownVite } from '@builder.io/partytown/utils';
 import { readFileSync } from 'fs';
 import { fileURLToPath } from 'url';
+
 const pathMainPkg = fileURLToPath(new URL('package.json', import.meta.url));
 const jsonMainPkg = readFileSync(pathMainPkg, 'utf8');
 const pathQWERPkg = fileURLToPath(new URL('QWER/package.json', import.meta.url));

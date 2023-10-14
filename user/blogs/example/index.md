@@ -1,9 +1,9 @@
 ---
 title: Example Post
-description: Example post written using Markdown Syntax with QWER - Simply Awesome Blog Starter. Built using SvelteKit and Love.
+description: Example post written using Markdown Syntax - Built using SvelteKit.
 summary: 📝 Showcase basic syntax of Markdown and HTML
 published: '2022-08-09T00:00:00.000+08:00'
-updated: '2023-05-01T20:00:00.000+08:00'
+updated: '2023-10-14'
 cover: ./cover.jpg
 coverCaption: Photo by <a href="https://unsplash.com/@etiennegirardet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Etienne Girardet</a> on <a href="https://unsplash.com/s/photos/motivation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 tags:

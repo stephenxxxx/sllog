@@ -2,6 +2,7 @@ import type { Site } from '$lib/types/site';
 import type { Giscus } from '$lib/types/giscus';
 import type { DD } from '$lib/types/dd';
 
+
 import Avatar from '$assets/avatar.png';
 import Avatar_128 from '$assets/avatar.png?w=128&h=128&format=avif;webp&imagetools';
 import Avatar_48_PNG from '$assets/avatar.png?w=48&h=48&imagetools';
@@ -93,10 +94,11 @@ export const dateConfig: Site.DateConfig = {
 export const giscusConfig: Giscus.Config = {
   enable: true,
   id: 'giscus-comment',
-  repo: import.meta.env.QWER_GISCUS_REPO,
-  repoId: import.meta.env.QWER_GISCUS_REPO_ID,
-  category: import.meta.env.QWER_GISCUS_CATEGORY,
-  categoryId: import.meta.env.QWER_GISCUS_CATEGORY_ID,
+  repo: 'stephenxxxx/sllog',
+  repoId: 'R_kgDOKgNIVw',
+  category: 'General',
+  theme: 'transparent_dark',
+  categoryId: 'DIC_kwDOKgNIV84CaILb',
   mapping: 'pathname',
   reactionsEnabled: '1',
   emitMetadata: '0',
@@ -112,13 +114,13 @@ export const navConfig: (DD.Nav | DD.Link)[] = [
     url: '/about',
   },
   {
-    name: 'See Docs 📄',
-    url: 'https://docs-svelte-qwer.vercel.app/',
+    name: 'My Dev Profile 📄',
+    url: 'https://stephenlittleton.com/',
     rel: 'external',
   },
   {
-    name: 'Get QWER 🚀',
-    url: 'https://github.com/kwchang0831/svelte-QWER',
+    name: 'Music Vidz News',
+    url: 'https://musicvidz3.stephenlittleton.com/',
     rel: 'external',
   },
 ];
@@ -131,13 +133,13 @@ export const mobilenavConfig: DD.Nav = {
       url: '/about',
     },
     {
-      name: 'See Docs 📄',
-      url: 'https://docs-svelte-qwer.vercel.app/',
+      name: 'My Dev Profile 📄',
+      url: 'https://stephenlittleton.com/',
       rel: 'external',
     },
     {
-      name: 'Get QWER 🚀',
-      url: 'https://github.com/kwchang0831/svelte-QWER',
+      name: 'MusicVidz News',
+      url: 'https://musicvidz3.stephenlittleton.com/',
       rel: 'external',
     },
   ],
