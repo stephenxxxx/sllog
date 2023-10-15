@@ -4,7 +4,7 @@ description: An introduction to my new site.
 summary: 🎉 Brand new developer blog using Svelte and Vercel
 published: '2023-10-14'
 updated: '2023-10-14'
-cover: ./wait.jpg
+cover: ./intro.jpg
 coverStyle: 'TOP'
 coverCaption: 
 tags:
@@ -25,6 +25,7 @@ tags:
  pointer-events: none;">
  <Confetti x={[-5, 5]} y={[0, 0.1]} delay={[500, 2000]} infinite duration=5000 amount=200 fallDistance="100vh" />
 </div>
+
 ## 👋 Hello World
 
 <div class="flex gap4 flex-wrap py4">

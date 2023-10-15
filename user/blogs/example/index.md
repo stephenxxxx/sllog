@@ -178,7 +178,7 @@ Shared image from `/user/assets/shared/`
 
 ## Youtube
 
-<Youtube id="ZXsQAXx_ao0"/>
+<Youtube id="nvQz-OjfZCs"/>
 
 ## Custom Svelte Component
 

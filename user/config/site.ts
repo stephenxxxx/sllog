@@ -23,9 +23,9 @@ export const siteConfig: Site.Config = {
   cover: SiteCover,
   author: {
     name: 'Stephen Littleton',
-    status: '⚙️',
+    status: '🤍',
     statusTip:
-      '<a href="https://log.stephenlittleton.com" rel="external" style="color:#0F0" onMouseOver="this.style.color=\'#0FF\'" onMouseOut="this.style.color=\'#0F0\'" >Stephens Log</a> is Awesome !',
+      '<a href="https://dev.stephenlittleton.com" rel="external" style="color:#0F0" onMouseOver="this.style.color=\'#0FF\'" onMouseOut="this.style.color=\'#0F0\'" >Stephens Log</a> is Awesome !',
     avatar: Avatar,
     avatar_128: Avatar_128,
     avatar_48_png: Avatar_48_PNG,
@@ -35,7 +35,7 @@ export const siteConfig: Site.Config = {
     website: 'https://stephenlittleton.com',
     github: 'https://github.com/stephenxxxx',
     email: 'stephen@stephenlittleton.com',
-    bio: `Peace begins <br/> With a smile`,
+    bio: `Peace begin 安宁 <br/> With smile 微笑`,
   },
 };
 
@@ -115,11 +115,11 @@ export const navConfig: (DD.Nav | DD.Link)[] = [
   },
   {
     name: 'My Dev Profile 📄',
-    url: 'https://stephenlittleton.com/',
+    url: 'https://dev.stephenlittleton.com/',
     rel: 'external',
   },
   {
-    name: 'Music Vidz News',
+    name: 'MusicVidz News',
     url: 'https://musicvidz3.stephenlittleton.com/',
     rel: 'external',
   },
@@ -134,7 +134,7 @@ export const mobilenavConfig: DD.Nav = {
     },
     {
       name: 'My Dev Profile 📄',
-      url: 'https://stephenlittleton.com/',
+      url: 'https://dev.stephenlittleton.com/',
       rel: 'external',
     },
     {
