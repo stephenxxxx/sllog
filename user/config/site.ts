@@ -25,7 +25,7 @@ export const siteConfig: Site.Config = {
     name: 'Stephen Littleton',
     status: '🤍',
     statusTip:
-      '<a href="https://dev.stephenlittleton.com" rel="external" style="color:#0F0" onMouseOver="this.style.color=\'#0FF\'" onMouseOut="this.style.color=\'#0F0\'" >Stephens Log</a> is Awesome !',
+      '<a href="https://dev.stephenlittleton.com" rel="external" style="color:#0F0" onMouseOver="this.style.color=\'#0FF\'" onMouseOut="this.style.color=\'#0F0\'" >Stephens Dev Page</a> still lives !',
     avatar: Avatar,
     avatar_128: Avatar_128,
     avatar_48_png: Avatar_48_PNG,
@@ -35,7 +35,7 @@ export const siteConfig: Site.Config = {
     website: 'https://stephenlittleton.com',
     github: 'https://github.com/stephenxxxx',
     email: 'stephen@stephenlittleton.com',
-    bio: `Peace begin 安宁 <br/> With smile 微笑`,
+    bio: `平和 Peace Begin 安宁<br/>笑顔 With Smile 微笑<br/>Мир начинается<br>с улыбки`,
   },
 };
 

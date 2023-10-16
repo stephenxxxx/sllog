@@ -25,6 +25,8 @@ tags:
 
 ## Paragraphs
 
+
+
 **Lorem Ipsum** dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. This is the content: **_The_** _quick_ <u>brown</u> [fox](https://www.foxnews.com/) `jumps` ~~over~~ the lazy **dog**.
 
 This is ||Spoiler Text||.
@@ -86,25 +88,42 @@ Katex inline are facanced by
 ````text
 `$kaTex Inline Text$`
 ````
+`$\KaTeX$`  
 
-This `$n^{22}$` and that `$\cos (2\theta) = \cos^2 \theta - \sin^2 \theta$`
+This `$n^{22}$` and that `$\cos (2\theta) = \cos^2 \theta - \sin^2 \theta$`  
 
 ### Chemical Typesetting
 
 ```math
 \ce{Zn^2+  <=>[+ 2OH-][+ 2H+]  $\underset{\text{amphoteres Hydroxid}}{\ce{Zn(OH)2 v}}$  <=>[+ 2OH-][+ 2H+]  $\underset{\text{Hydroxozikat}}{\ce{[Zn(OH)4]^2-}}$}
 ```
+Power gain, in decibels (dB), is defined as follows:  
+```math
+\text{gain-db}=10 \log_{10} \left(\frac{P_\text{out}}{P_\text{in}}\right)~\text{dB},
+```
+where `$P$`in is the power applied to the input, `$P$`out is the power from the output.  
+
+A similar calculation can be done using a natural logarithm instead of a decimal logarithm, resulting in nepers instead of decibels:  
+```math
+\text{gain-np} = \frac{1}{2} \ln\left(\frac{P_\text{out}}{P_\text{in}}\right)~\text{Np}.
+```
+
+![github-mark-svg](Amplification2.svg)
+
 
 ## Footnotes
 
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+In electronics, gain is a measure of the ability of a two-port circuit (often an amplifier) to increase the power or amplitude of a signal from the input to the output port by adding energy converted from some power supply to the signal. It is usually defined as the mean ratio of the signal amplitude or power at the output port to the amplitude or power at the input port[^1]. Sources [^2][^3][^4]
 
-[^1]: This is the first footnote.
+[^1]: Graf, Rudolf F. (1999). Modern Dictionary of Electronics (7 ed.). Newnes. p. 314. ISBN 0080511988.
 
-[^bignote]: Here's one with multiple paragraphs and code.  
-    Indent paragraphs to include them in the footnote.  
-    `{ my code }`  
-    Add as many paragraphs as you like.
+[^2]: Basu, Dipak (2000). Dictionary of Pure and Applied Physics. CRC Press. p. 157. ISBN 1420050222.  
+
+[^3]: Bahl, Inder (2009). Fundamentals of RF and Microwave Transistor Amplifiers. John Wiley and Sons. p. 34. ISBN 978-0470462317.  
+
+[^4]: White, Glenn; Louie, Gary J (2005). The Audio Dictionary (3 ed.). University of Washington Press. p. 18. ISBN 0295984988.  
+    `{ eof }`  
+    
 
 ## Info Block
 
@@ -231,3 +250,5 @@ return `<span style="color: goldenrod">Not me.</span>`
 })()}
 
 ## 👍 END
+
+<Youtube id="sul16s0VSzs"/>

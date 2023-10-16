@@ -33,8 +33,8 @@
         amount="200"
         fallDistance="100vh" />
     </div>
-    ## 👋 Hello World
 
+    <h2 id="hello-world"><a href="#hello-world">👋 Hello World</a></h2>
     <div class="flex gap4 flex-wrap py4">
       <span>Hello Wêreld!</span>
       <span>Përshendetje Botë!</span>

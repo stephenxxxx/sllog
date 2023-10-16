@@ -127,6 +127,58 @@
       </CodeCopy>
     </div>
     <p>
+      <span class="katex-inline">
+        <span class="katex">
+          <span class="katex-mathml">
+            <math xmlns="http://www.w3.org/1998/Math/MathML">
+              <semantics>
+                <mrow><mtext>KaTeX</mtext></mrow>
+                <annotation encoding="application/x-tex">\KaTeX</annotation>
+              </semantics>
+            </math>
+          </span>
+          <span class="katex-html" aria-hidden="true">
+            <span class="base">
+              <span class="strut" style="height:0.8988em;vertical-align:-0.2155em;"></span>
+              <span class="mord text">
+                <span class="mord textrm">K</span>
+                <span class="mspace" style="margin-right:-0.17em;"></span>
+                <span class="vlist-t">
+                  <span class="vlist-r">
+                    <span class="vlist" style="height:0.6833em;">
+                      <span style="top:-2.905em;">
+                        <span class="pstrut" style="height:2.7em;"></span>
+                        <span class="mord"><span class="mord textrm mtight sizing reset-size6 size3">A</span></span>
+                      </span>
+                    </span>
+                  </span>
+                </span>
+                <span class="mspace" style="margin-right:-0.15em;"></span>
+                <span class="mord text">
+                  <span class="mord textrm">T</span>
+                  <span class="mspace" style="margin-right:-0.1667em;"></span>
+                  <span class="vlist-t vlist-t2">
+                    <span class="vlist-r">
+                      <span class="vlist" style="height:0.4678em;">
+                        <span style="top:-2.7845em;">
+                          <span class="pstrut" style="height:3em;"></span>
+                          <span class="mord"><span class="mord textrm">E</span></span>
+                        </span>
+                      </span>
+                      <span class="vlist-s">​</span>
+                    </span>
+                    <span class="vlist-r"><span class="vlist" style="height:0.2155em;"><span></span></span></span>
+                  </span>
+                  <span class="mspace" style="margin-right:-0.125em;"></span>
+                  <span class="mord textrm">X</span>
+                </span>
+              </span>
+            </span>
+          </span>
+        </span>
+      </span>
+    </p>
+    <p>
       This <span class="katex-inline">
         <span class="katex">
           <span class="katex-mathml">
@@ -277,12 +329,69 @@ v40h399900v-40zM0 241v40h399900v-40zm0 0v40h399900v-40z'/></svg></span><span cla
  2-18 6-2 2.7-1 9.7 3 21 15.3 42 36.7 81.8 64 119.5 27.3 37.7 58 69.2 92 94.5z
 m0 0v40h399900v-40z m100 194v40h399900v-40zm0 0v40h399900v-40z'/></svg></span></span></span><span style="top:-1.974em;"><span class="pstrut" style="height:2.716em;"></span><span class="sizing reset-size6 size3 mtight x-arrow-pad"><span class="mord mtight"><span class="mord mtight"></span><span class="mbin mtight">+</span><span class="mord mtight"></span><span class="mord mtight">2</span><span class="mspace mtight" style="margin-right:0.1952em;"></span><span class="mord mathrm mtight">H</span><span class="mord mtight"><span class="mord mtight"><span class="mord rlap mtight"><span class="inner"><span class="mord mtight" style="color:transparent;"><span class="mord mathnormal mtight" style="margin-right:0.07847em;color:transparent;">X</span></span></span><span class="fix"></span></span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7471em;"><span style="top:-2.8305em;margin-right:0.0714em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">+</span></span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8003em;"><span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mord"><span class="mop op-limits"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8873em;"><span style="top:-2.0979em;margin-left:0em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord text mtight"><span class="mord mtight">Hydroxozikat</span></span></span></span></span><span style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span><span class="mop"><span class="mord"><span class="mopen">[</span><span class="mord"><span class="mord mathrm">Zn</span></span><span class="mopen">(</span><span class="mord"><span class="mord mathrm">OH</span></span><span class="mclose">)</span><span class="mord"><span class="mord"><span class="mord rlap"><span class="inner"><span class="mord" style="color:transparent;"><span class="mord mathnormal" style="margin-right:0.07847em;color:transparent;">X</span></span></span><span class="fix"></span></span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:-0.15em;"><span style="top:-2.55em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0em;"><span style="top:-2.7em;"><span class="pstrut" style="height:2.7em;"></span><span><span class="mord mtight"><span class="mord mtight">4</span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mclose">]</span><span class="mord"><span class="mord"><span class="mord rlap"><span class="inner"><span class="mord" style="color:transparent;"><span class="mord mathnormal" style="margin-right:0.07847em;color:transparent;">X</span></span></span><span class="fix"></span></span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8873em;"><span style="top:-3.1362em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="mord mtight">−</span></span></span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.1382em;"><span></span></span></span></span></span></span></span></span></span></span></span>`}
     </p>
+    <p>Power gain, in decibels (dB), is defined as follows:</p>
+    <p class="katex-block">
+      {@html String.raw`<span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mtext>gain-db</mtext><mo>=</mo><mn>10</mn><msub><mrow><mi>log</mi><mo>⁡</mo></mrow><mn>10</mn></msub><mrow><mo fence="true">(</mo><mfrac><msub><mi>P</mi><mtext>out</mtext></msub><msub><mi>P</mi><mtext>in</mtext></msub></mfrac><mo fence="true">)</mo></mrow><mtext> dB</mtext><mo separator="true">,</mo></mrow><annotation encoding="application/x-tex">\text{gain-db}=10 \log_{10} \left(\frac{P_\text{out}}{P_\text{in}}\right)~\text{dB},</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8889em;vertical-align:-0.1944em;"></span><span class="mord text"><span class="mord">gain-db</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:2.4em;vertical-align:-0.95em;"></span><span class="mord">10</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mop"><span class="mop">lo<span style="margin-right:0.01389em;">g</span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.207em;"><span style="top:-2.4559em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">10</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.2441em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size3">(</span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3603em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3175em;"><span style="top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord text mtight"><span class="mord mtight">in</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.2806em;"><span style="top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord text mtight"><span class="mord mtight">out</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.836em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size3">)</span></span></span><span class="mspace nobreak"> </span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord text"><span class="mord">dB</span></span><span class="mpunct">,</span></span></span></span></span>`}
+    </p>
+    <p>
+      where <span class="katex-inline">
+        <span class="katex">
+          <span class="katex-mathml">
+            <math xmlns="http://www.w3.org/1998/Math/MathML">
+              <semantics>
+                <mrow><mi>P</mi></mrow>
+                <annotation encoding="application/x-tex">P</annotation>
+              </semantics>
+            </math>
+          </span>
+          <span class="katex-html" aria-hidden="true">
+            <span class="base">
+              <span class="strut" style="height:0.6833em;"></span>
+              <span class="mord mathnormal" style="margin-right:0.13889em;">P</span>
+            </span>
+          </span>
+        </span>
+      </span>
+      in is the power applied to the input,
+      <span class="katex-inline">
+        <span class="katex">
+          <span class="katex-mathml">
+            <math xmlns="http://www.w3.org/1998/Math/MathML">
+              <semantics>
+                <mrow><mi>P</mi></mrow>
+                <annotation encoding="application/x-tex">P</annotation>
+              </semantics>
+            </math>
+          </span>
+          <span class="katex-html" aria-hidden="true">
+            <span class="base">
+              <span class="strut" style="height:0.6833em;"></span>
+              <span class="mord mathnormal" style="margin-right:0.13889em;">P</span>
+            </span>
+          </span>
+        </span>
+      </span>
+      out is the power from the output.
+    </p>
+    <p>
+      A similar calculation can be done using a natural logarithm instead of a decimal logarithm, resulting in nepers
+      instead of decibels:
+    </p>
+    <p class="katex-block">
+      {@html String.raw`<span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mtext>gain-np</mtext><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>ln</mi><mo>⁡</mo><mrow><mo fence="true">(</mo><mfrac><msub><mi>P</mi><mtext>out</mtext></msub><msub><mi>P</mi><mtext>in</mtext></msub></mfrac><mo fence="true">)</mo></mrow><mtext> Np</mtext><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex">\text{gain-np} = \frac{1}{2} \ln\left(\frac{P_\text{out}}{P_\text{in}}\right)~\text{Np}.</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8623em;vertical-align:-0.1944em;"></span><span class="mord text"><span class="mord">gain-np</span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:2.4em;vertical-align:-0.95em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3214em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mop">ln</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="minner"><span class="mopen delimcenter" style="top:0em;"><span class="delimsizing size3">(</span></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3603em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3175em;"><span style="top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord text mtight"><span class="mord mtight">in</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord"><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.2806em;"><span style="top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord text mtight"><span class="mord mtight">out</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.836em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mclose delimcenter" style="top:0em;"><span class="delimsizing size3">)</span></span></span><span class="mspace nobreak"> </span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord text"><span class="mord">Np</span></span><span class="mord">.</span></span></span></span></span>`}
+    </p>
+    <p><ImgZoom src="/example/Amplification2.svg" alt="github-mark-svg"></ImgZoom></p>
     <h2 id="footnotes"><a href="#footnotes">Footnotes</a></h2>
     <p>
-      Here&#39;s a simple footnote,
+      In electronics, gain is a measure of the ability of a two-port circuit (often an amplifier) to increase the power
+      or amplitude of a signal from the input to the output port by adding energy converted from some power supply to
+      the signal. It is usually defined as the mean ratio of the signal amplitude or power at the output port to the
+      amplitude or power at the input port
       <sup id="fnref:1"><a href="#fn:1">1</a></sup>
-      and here&#39;s a longer one.
-      <sup id="fnref:bignote"><a href="#fn:bignote">2</a></sup>
+      . Sources
+      <sup id="fnref:2"><a href="#fn:2">2</a></sup>
+      <sup id="fnref:3"><a href="#fn:3">3</a></sup>
+      <sup id="fnref:4"><a href="#fn:4">4</a></sup>
     </p>
     <h2 id="info-block"><a href="#info-block">Info Block</a></h2>
     <InfoBox statusType="info" statusName="This is the title">
@@ -395,7 +504,7 @@ m0 0v40h399900v-40z m100 194v40h399900v-40zm0 0v40h399900v-40z'/></svg></span></
     <h2 id="videos-gif"><a href="#videos-gif">Videos / GIF</a></h2>
     <p><Video mp4="/example/example2.mp4" id="MP4 Example" /></p>
     <h2 id="youtube"><a href="#youtube">Youtube</a></h2>
-    <Youtube id="ZXsQAXx_ao0" />
+    <Youtube id="nvQz-OjfZCs" />
 
     <h2 id="custom-svelte-component"><a href="#custom-svelte-component">Custom Svelte Component</a></h2>
     <div class="p4 border-1 shadow-xl rounded-xl border-black dark:border-white overflow-auto">
@@ -435,24 +544,32 @@ m0 0v40h399900v-40z m100 194v40h399900v-40zm0 0v40h399900v-40z'/></svg></span></
       })()}
     </p>
     <h2 id="end"><a href="#end">👍 END</a></h2>
-
+    <Youtube id="sul16s0VSzs" />
     <hr />
     <ol>
       <li id="fn:1" class="footnote">
-        <p>This is the first footnote.</p>
+        <p>Graf, Rudolf F. (1999). Modern Dictionary of Electronics (7 ed.). Newnes. p. 314. ISBN 0080511988.</p>
         <a href="#fnref:1">↩</a>
       </li>
-      <li id="fn:bignote" class="footnote">
+      <li id="fn:2" class="footnote">
+        <p>Basu, Dipak (2000). Dictionary of Pure and Applied Physics. CRC Press. p. 157. ISBN 1420050222.</p>
+        <a href="#fnref:2">↩</a>
+      </li>
+      <li id="fn:3" class="footnote">
         <p>
-          Here&#39;s one with multiple paragraphs and code.
-          <br />
-          Indent paragraphs to include them in the footnote.
-          <br />
-          <code class="inline-code-block">&lcub; my code &rcub;</code>
-          <br />
-           Add as many paragraphs as you like.
+          Bahl, Inder (2009). Fundamentals of RF and Microwave Transistor Amplifiers. John Wiley and Sons. p. 34. ISBN
+          978-0470462317.
         </p>
-        <a href="#fnref:bignote">↩</a>
+        <a href="#fnref:3">↩</a>
+      </li>
+      <li id="fn:4" class="footnote">
+        <p>
+          White, Glenn; Louie, Gary J (2005). The Audio Dictionary (3 ed.). University of Washington Press. p. 18. ISBN
+          0295984988.
+          <br />
+          <code class="inline-code-block">&lcub; eof &rcub;</code>
+        </p>
+        <a href="#fnref:4">↩</a>
       </li>
     </ol>
   </article>
