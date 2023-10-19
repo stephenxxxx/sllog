@@ -13,7 +13,7 @@ import Avatar_512_PNG from '$assets/avatar.png?w=512&h=512&imagetools';
 import SiteCover from '$assets/qwer.webp';
 
 export const siteConfig: Site.Config = {
-  url: 'https://log.stephenlittleton.com/',
+  url: 'https://www.stephenlittleton.com/',
   title: 'Logbook',
   subtitle: 'My log and posts.',
   description: 'Just some posts. I am also including my log.',

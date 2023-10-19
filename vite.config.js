@@ -57,7 +57,7 @@ const config = {
       shortcuts: [
         {
           'title-link':
-            'bg-gradient-to-t from-orange-500 to-orange-500 bg-no-repeat [background-position:0_88%] [background-size:0%_0.1em] focus:![background-size:100%_100%] hover:![background-size:100%_100%] group-hover:[background-size:100%_0.1em] motion-safe:transition-all motion-safe:duration-200',
+            'bg-gradient-to-t from-cyan-500 to-blue-500 bg-no-repeat [background-position:0_88%] [background-size:0%_0.1em] focus:![background-size:100%_100%] hover:![background-size:100%_100%] group-hover:[background-size:100%_0.1em] motion-safe:transition-all motion-safe:duration-200',
         },
         [
           /^title-link-(.*)-(.*)-(.*)-(.*)$/,
