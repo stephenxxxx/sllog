@@ -17,20 +17,29 @@
     <h1 id="psyche"><a href="#psyche">🛰️ Psyche</a></h1>
     <p>
       🛰️ <strong>Psyche is</strong>
-       a NASA space mission launched on October 13, 2023 to explore the origin of planetary cores by orbiting and studying
-      the metallic asteroid 16 Psyche.0 NASA&#39;s Jet Propulsion Laboratory (JPL) manages the project.
+      a
+      <a href="https://nasa.gov/" rel="external">NASA</a>
+      space mission launched on October 13, 2023 to explore the origin of planetary cores by orbiting and studying the
+      metallic asteroid 16 Psyche beginning in 2029. NASA&#39;s
+      <a href="https://www.jpl.nasa.gov/" rel="external">Jet Propulsion Laboratory</a>
+       manages the project.
     </p>
     <p>
       16 Psyche is the heaviest known M-type asteroid, and may be an exposed iron core of a protoplanet, the remnant of
       a violent collision with another object that stripped off its mantle and crust. On January 4, 2017, the Psyche
-      mission was selected for NASA&#39;s Discovery #14 mission. It was launched atop a SpaceX Falcon Heavy rocket.
+      mission was selected for NASA&#39;s Discovery #14 mission. It was launched atop a <a
+        href="https://www.spacex.com/vehicles/falcon-heavy/"
+        rel="external">
+        SpaceX Falcon Heavy
+      </a>
+       rocket.
     </p>
     <p>
       The Psyche spacecraft is traveling to a unique metal-rich asteroid with the same name, orbiting the Sun between
       Mars and Jupiter. By August 2029 the spacecraft will begin exploring the asteroid that scientists think – because
       of its high metal content – may be the partial core of a planetesimal, a building block of an early planet.
     </p>
-    <h1 id="history"><a href="#history">📡 History</a></h1>
+    <h2 id="history"><a href="#history">📰 History</a></h2>
     <p>
       🛰️ <strong>Psyche was</strong>
        submitted by Lindy Elkins-Tanton, a principal investigator at Arizona State University, as part of a call for proposals
@@ -61,7 +70,7 @@
       and communications issues among engineers and with management. The VERITAS Venus mission was delayed to free up
       staff to focus on Psyche.
     </p>
-    <h1 id="target"><a href="#target">🔭 Target</a></h1>
+    <h2 id="target"><a href="#target">🔭 Target</a></h2>
     <p>
       🛰️ <strong>Psyche is</strong>
        the heaviest known M-type asteroid, and may be an exposed iron core of a protoplanet, the remnant of a violent collision
@@ -74,7 +83,7 @@
       iron–nickel composition.
     </p>
     <p><ImgZoom src="/psyche/Psyche_Orbital_Operations.jpeg" alt="Orbital Operations"></ImgZoom></p>
-    <h1 id="mission-overview"><a href="#mission-overview">Mission overview</a></h1>
+    <h1 id="mission-overview"><a href="#mission-overview">📑 Mission overview</a></h1>
     <p>
       <strong>The Psyche spacecraft</strong>
        is designed with solar electric propulsion, and the scientific payload includes a multispectral imager, a magnetometer,
@@ -99,9 +108,9 @@
       it would not be on the required trajectory to meet its science requirements as a result of Psyche&#39;s new launch
       period.
     </p>
-    <h1 id="science-goals-and-objectives">
+    <h2 id="science-goals-and-objectives">
       <a href="#science-goals-and-objectives">🚀 Science goals and objectives</a>
-    </h1>
+    </h2>
     <ImgZoom
       src="/psyche/Psyche_illustration.jpg"
       alt="Artist's illustration depicting the metal-rich asteroid Psyche."
@@ -133,9 +142,9 @@
         src="/psyche/SPacecraft_Psyches_Thruster_Integration_Underway_PIA24789.jpeg"
         alt="Psyche&#39;s thruster integration underway"></ImgZoom>
     </p>
-    <h1 id="instruments-onboard-of-the-spacecraft">
+    <h2 id="instruments-onboard-of-the-spacecraft">
       <a href="#instruments-onboard-of-the-spacecraft">🛰️ Instruments onboard of the spacecraft:</a>
-    </h1>
+    </h2>
     <ol>
       <li>Hall-effect thrusters</li>
       <li>Optical telecommunications system</li>
@@ -152,9 +161,9 @@
       <li>+Y Panel</li>
       <li>Multispectral imagers (x2)</li>
     </ol>
-    <h1 id="laser-communications-experiment">
-      <a href="#laser-communications-experiment">Laser communications experiment</a>
-    </h1>
+    <h2 id="laser-communications-experiment">
+      <a href="#laser-communications-experiment">📡 Laser communications experiment</a>
+    </h2>
     <ImgZoom
       src="/psyche/Psyche_DSOC.jpeg"
       alt="DSOC's flight transceiver can be identified by its large tube-like sunshade on the Psyche spacecraft, as seen here inside a clean room at JPL."
@@ -182,11 +191,11 @@
       2.5 astronomical units (AU) on the outward-bound probe.
     </p>
     <p><ImgZoom src="/psyche/Psyches_Mission_Plan.jpeg" alt="Mission Plan"></ImgZoom></p>
-    <h1 id="specifically-the-science-goals-for-the-mission-are">
+    <h3 id="specifically-the-science-goals-for-the-mission-are">
       <a href="#specifically-the-science-goals-for-the-mission-are">
-        Specifically, the science goals for the mission are:
+        🪧 Specifically, the science goals for the mission are:
       </a>
-    </h1>
+    </h3>
     <ul>
       <li>Understand a previously unexplored building block of planet formation: iron cores.</li>
       <li>
@@ -199,11 +208,11 @@
       <ImgZoom src="/psyche/Animation_of_Psyche_around_Sun.gif" alt="Around The Sun"></ImgZoom>
       <ImgZoom src="/psyche/Animation_of_Psyche_around_16_Psyche.gif" alt="Around 16 Psyche"></ImgZoom>
     </p>
-    <h1 id="the-science-questions-this-mission-aims-to-address-are">
+    <h3 id="the-science-questions-this-mission-aims-to-address-are">
       <a href="#the-science-questions-this-mission-aims-to-address-are">
-        The science questions this mission aims to address are:
+        🪧 The science questions this mission aims to address are:
       </a>
-    </h1>
+    </h3>
     <ul>
       <li>
         Is Psyche the stripped core of a differentiated planetesimal, or was it formed as an iron-rich body? What were
@@ -220,10 +229,17 @@
       </li>
       <li>How do craters on a metal body differ from those in rock or ice? 🛸</li>
     </ul>
-    <center><img src="/psyche/Psyche_insignia.svg" alt="Psyche Insignia" width="300" height="auto" /></center>
-
+    <p><ImgZoom src="/psyche/Psyche_insignia.svg" alt="Psyche Insignia"></ImgZoom></p>
     <Youtube id="lMFbHb_3e6Q" />
 
+    <h1 id="credits"><a href="#credits">Credits</a></h1>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Psyche_(spacecraft)">Wikipedia Page</a></li>
+    </ul>
+    <ul>
+      <li><a href="https://psyche.asu.edu/" rel="external">Psyche - ASU Site</a></li>
+      <li><a href="https://www.nasa.gov/psyche" rel="external">Psyche - NASA Site</a></li>
+    </ul>
     <p><ImgZoom src="/psyche/Psyche_Liftoff.jpeg" alt="LIFTOFF"></ImgZoom></p>
   </article>
 </Post>

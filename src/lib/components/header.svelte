@@ -171,7 +171,7 @@
           class="flex items-center justify-items-center"
           in:fly|global={{ x: -50, duration: 300, delay: 300 }}
           out:fly|global={{ x: -50, duration: 300 }}>
-          <div class="lg:hidden rounded-lg btn btn-ghost !p0">
+          <div class="lg:hidden rounded-lg btn btn-outline !p0">
             <Dropdown nav={mobilenavConfig} class="text-sm p2 ">
               <button aria-label="nav menu" class="flex items-center">
                 <div class="i-mdi-hamburger-menu !w-[1.5rem] !h-[1.5rem]" />
@@ -179,13 +179,13 @@
             </Dropdown>
           </div>
 
-          <a href="/" class="text-xl font-semibold normal-case btn btn-ghost" on:click={resetHome}>
+          <a href="/" class="text-3xl font-bold normal-case btn btn-outline bg-clip-text text-transparent bg-gradient-to-r from-stone-300 to-stone-50" on:click={resetHome}>
             {siteConfig.title}
           </a>
 
           <div class="hidden lg:(flex)">
             {#each navConfig as n}
-              <Dropdown class="text-lg px3 py2 btn btn-ghost " nav={n} />
+              <Dropdown class="text-lg px3 py2 btn btn-outline " nav={n} />
             {/each}
           </div>
 

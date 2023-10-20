@@ -149,7 +149,7 @@
               <a
                 rel="next"
                 href="/{nextPost.slug}"
-                class="absolute text-2xl font-bold z-10 !decoration-none !underline-none title-link-cyan-500-blue-500 top-[3rem] left-[1rem] mr8">
+                class="absolute text-2xl font-bold z-10 !decoration-none !underline-none title-link-cyan-500-emerald-500 top-[3rem] left-[1rem] mr8">
                 {nextPost.title}
               </a>
               {#if nextPost.cover}
@@ -164,7 +164,7 @@
               <a
                 rel="prev"
                 href="/{prevPost.slug}"
-                class="absolute text-2xl font-bold z-10 !decoration-none !underline-none title-link-cyan-500-blue-500 top-[3rem] right-[1rem] ml8">
+                class="absolute text-2xl font-bold z-10 !decoration-none !underline-none title-link-cyan-500-emerald-500 top-[3rem] right-[1rem] ml8">
                 {prevPost.title}
               </a>
               <div

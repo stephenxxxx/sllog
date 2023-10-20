@@ -17,13 +17,13 @@ tags:
 
 # 🛰️ Psyche
 
-🛰️ **Psyche is** a NASA space mission launched on October 13, 2023 to explore the origin of planetary cores by orbiting and studying the metallic asteroid 16 Psyche.0 NASA's Jet Propulsion Laboratory (JPL) manages the project.  
+🛰️ **Psyche is** a [NASA](https://nasa.gov/) space mission launched on October 13, 2023 to explore the origin of planetary cores by orbiting and studying the metallic asteroid 16 Psyche beginning in 2029. NASA's [Jet Propulsion Laboratory](https://www.jpl.nasa.gov/) manages the project.  
 
-16 Psyche is the heaviest known M-type asteroid, and may be an exposed iron core of a protoplanet, the remnant of a violent collision with another object that stripped off its mantle and crust. On January 4, 2017, the Psyche mission was selected for NASA's Discovery #14 mission. It was launched atop a SpaceX Falcon Heavy rocket.  
+16 Psyche is the heaviest known M-type asteroid, and may be an exposed iron core of a protoplanet, the remnant of a violent collision with another object that stripped off its mantle and crust. On January 4, 2017, the Psyche mission was selected for NASA's Discovery #14 mission. It was launched atop a [SpaceX Falcon Heavy](https://www.spacex.com/vehicles/falcon-heavy/) rocket.  
 
 The Psyche spacecraft is traveling to a unique metal-rich asteroid with the same name, orbiting the Sun between Mars and Jupiter. By August 2029 the spacecraft will begin exploring the asteroid that scientists think – because of its high metal content – may be the partial core of a planetesimal, a building block of an early planet.  
 
-# 📡 History
+## 📰 History
 
 🛰️ **Psyche was** submitted by Lindy Elkins-Tanton, a principal investigator at Arizona State University, as part of a call for proposals for NASA's Discovery Program that closed in February 2015. It was shortlisted on September 30, 2015, as one of five finalists and awarded US$3 million for further concept development.  
 
@@ -37,7 +37,7 @@ On April 18, 2023, JPL's mission page for Psyche was updated to reflect a new la
 
 An independent review of the delays at JPL reported in November 2022 found understaffing, insufficient planning, and communications issues among engineers and with management. The VERITAS Venus mission was delayed to free up staff to focus on Psyche.  
 
-# 🔭 Target
+## 🔭 Target
 
 🛰️ **Psyche is** the heaviest known M-type asteroid, and may be an exposed iron core of a protoplanet, the remnant of a violent collision with another object that stripped off its mantle and crust.  
 
@@ -45,7 +45,7 @@ Recent studies show that it is "a mixed metal and silicate world". Another study
 
 ![Orbital Operations](./Psyche_Orbital_Operations.jpeg)
 
-# Mission overview
+# 📑 Mission overview
 
 **The Psyche spacecraft** is designed with solar electric propulsion, and the scientific payload includes a multispectral imager, a magnetometer, and a gamma-ray spectrometer.  
 
@@ -57,7 +57,7 @@ In May 2020, it was announced that the Falcon Heavy carrying Psyche would includ
 
 Janus was later removed from the Psyche mission as well on November 18, 2022, after an assessment determined that it would not be on the required trajectory to meet its science requirements as a result of Psyche's new launch period.  
 
-# 🚀 Science goals and objectives
+## 🚀 Science goals and objectives
 
 
 <ImgZoom src="/psyche/Psyche_illustration.jpg" alt="Artist's illustration depicting the metal-rich asteroid Psyche." class="h-full object-cover">
@@ -77,7 +77,7 @@ Differentiation is a fundamental process in shaping many asteroids and all terre
 
 ![Psyche's thruster integration underway](./SPacecraft_Psyches_Thruster_Integration_Underway_PIA24789.jpeg)
 
-# 🛰️ Instruments onboard of the spacecraft:  
+## 🛰️ Instruments onboard of the spacecraft:  
 1. Hall-effect thrusters
 2. Optical telecommunications system
 3. Star trackers
@@ -93,7 +93,7 @@ Differentiation is a fundamental process in shaping many asteroids and all terre
 13. +Y Panel
 14. Multispectral imagers (x2)
 
-# Laser communications experiment
+## 📡 Laser communications experiment
 <ImgZoom src="/psyche/Psyche_DSOC.jpeg" alt="DSOC's flight transceiver can be identified by its large tube-like sunshade on the Psyche spacecraft, as seen here inside a clean room at JPL." class="h-full object-cover">
   DSOC's flight transceiver can be identified by its large tube-like sunshade on the Psyche spacecraft, as seen here inside a clean room at JPL.
 </ImgZoom>
@@ -104,14 +104,14 @@ The Discovery program solicitation offered mission projects an extra $30 M if th
 
 ![Mission Plan](./Psyches_Mission_Plan.jpeg)
 
-# Specifically, the science goals for the mission are:  
+### 🪧 Specifically, the science goals for the mission are:  
 + Understand a previously unexplored building block of planet formation: iron cores.
 + Look inside terrestrial planets, including Earth, by directly examining the interior of a differentiated body, which otherwise could not be seen.
 + Explore a new type of world, made of metal.
 
 ![Around The Sun](./Animation_of_Psyche_around_Sun.gif) ![Around 16 Psyche](./Animation_of_Psyche_around_16_Psyche.gif)
 
-# The science questions this mission aims to address are:  
+### 🪧 The science questions this mission aims to address are:  
 + Is Psyche the stripped core of a differentiated planetesimal, or was it formed as an iron-rich body? What were the building blocks of planets? Did planetesimals that formed close to the Sun have very different bulk compositions?
 + If 16 Psyche was stripped of its mantle, when and how did that occur?
 + If 16 Psyche was once molten, did it solidify from the inside out, or the outside in?
@@ -120,8 +120,15 @@ The Discovery program solicitation offered mission projects an extra $30 M if th
 + What are the key characteristics of the geologic surface and global topography? Does 16 Psyche look radically different from known stony and icy bodies?
 + How do craters on a metal body differ from those in rock or ice? 🛸
 
-<center><img src="/psyche/Psyche_insignia.svg" alt="Psyche Insignia" width="300" height="auto"></center>
+![Psyche Insignia](./Psyche_insignia.svg)
 
 <Youtube id="lMFbHb_3e6Q"/>
+
+# Credits 
+
++ <a href="https://en.wikipedia.org/wiki/Psyche_(spacecraft)">Wikipedia Page</a>  
+
+- [Psyche - ASU Site](https://psyche.asu.edu/)  
+- [Psyche - NASA Site](https://www.nasa.gov/psyche)  
 
 ![LIFTOFF](./Psyche_Liftoff.jpeg)
