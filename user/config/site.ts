@@ -35,7 +35,7 @@ export const siteConfig: Site.Config = {
     website: 'https://stephenlittleton.com',
     github: 'https://github.com/stephenxxxx',
     email: 'stephen@stephenlittleton.com',
-    bio: `平和 Peace Begin 安宁<br/>笑顔 With Smile 微笑<br/>Мир начинается<br>с улыбки`,
+    bio: `平和 Peace Begin 安宁<br/>笑顔 With Smile 微笑<br/><a href="https://en.wikipedia.org/wiki/File:Georgian_national_anthem.oga">თავისუფლება</a><br/>Мир начинается<br>с улыбки`,
   },
 };
 
@@ -113,16 +113,6 @@ export const navConfig: (DD.Nav | DD.Link)[] = [
     name: 'About',
     url: '/about',
   },
-  {
-    name: 'My Dev Profile 📄',
-    url: 'https://dev.stephenlittleton.com/',
-    rel: 'external',
-  },
-  {
-    name: 'MusicVidz News',
-    url: 'https://musicvidz3.stephenlittleton.com/',
-    rel: 'external',
-  },
 ];
 
 export const mobilenavConfig: DD.Nav = {
@@ -131,16 +121,6 @@ export const mobilenavConfig: DD.Nav = {
     {
       name: 'About',
       url: '/about',
-    },
-    {
-      name: 'My Dev Profile 📄',
-      url: 'https://dev.stephenlittleton.com/',
-      rel: 'external',
-    },
-    {
-      name: 'MusicVidz News',
-      url: 'https://musicvidz3.stephenlittleton.com/',
-      rel: 'external',
     },
   ],
 };

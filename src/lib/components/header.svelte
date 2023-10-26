@@ -179,13 +179,13 @@
             </Dropdown>
           </div>
 
-          <a href="/" class="text-3xl font-bold normal-case btn btn-outline bg-clip-text text-transparent bg-gradient-to-r from-stone-300 to-stone-50" on:click={resetHome}>
+          <a href="/" class="text-xl font-bold normal-case btn btn-ghost bg-clip-text text-transparent bg-gradient-to-r from-stone-300 to-stone-400" on:click={resetHome}>
             {siteConfig.title}
           </a>
 
           <div class="hidden lg:(flex)">
             {#each navConfig as n}
-              <Dropdown class="text-lg px3 py2 btn btn-outline " nav={n} />
+              <Dropdown class="text-lg px3 py2 btn btn-ghost " nav={n} />
             {/each}
           </div>
 
