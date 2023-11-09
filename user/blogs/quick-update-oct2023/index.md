@@ -8,7 +8,7 @@ cover: ./1200px-Blooper_Nanny_NSMBUDeluxe.webp
 coverStyle: 'TOP'
 coverCaption: 
 tags:
-  - ['halloween', 'spooktober', 'update', 'status' SLLOG]
+  - ['halloween', 'spooktober', 'update', 'status', SLLOG]
 ---
 
 # Brief Update
@@ -21,4 +21,4 @@ They've sold their service, which was in beta to begin with, to squarespace. The
 
 It wasn't until recently I've decided to go with Shopify to complete all my purchase with my site. They are more closely alligned with my history, they are using tucows, based out of Canada and they provide a ton of support and API interface logic to handle transactions. They also provide tons of documentation. For all they are offering, I've decided to give them a real concentrated effort. The technologies are open sourced and they are providing full documentation. In software terms, thats really all you can ask for and all you really need. They provide it, there is no mystery and attempted veil. They provide you with the freedom you desire. Whether or not that's able to be utilized properly? Well that's where I come in. Time to really get going and learn this stuff. It's finally at the level I've always required in order to be able to compete with the bigger names out there. I mean, I'm just one man, after all.
 
-<ImgZoom src="/quick-update-oct2023/DMW-Blooper.webp" class="h-full object-cover">Happy Halloween.</ImgZoom>
+<ImgZoom src="/quick-update-oct2023/DMW-Blooper.webp" >Happy Halloween.</ImgZoom>
