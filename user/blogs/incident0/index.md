@@ -49,3 +49,4 @@ My kidneys could not be felt. I had some kind of parasite or something who the h
 <ImgZoom src="/incident0/Kim_Military_Exercises_v1.webp" alt="Bath House">I've grown a new affinity for baths again</ImgZoom>  
 <ImgZoom src="/incident0/Toxic_google-980x551.webp" alt="target identified"></ImgZoom>  
 
+<Youtube id="fm0eqPJwQDo"/>
