@@ -2,8 +2,8 @@
 title: SM-62 Snark
 description: Snark missile
 summary: 🔲🔳🔲🔳
-published: '2023-10-25'
-updated: '2023-10-25'
+published: '2023-10-25T00:00:00.000-05:00'
+updated: '2023-10-25T00:00:00.000-05:00'
 cover: ./Snark_rocket.jpeg
 coverCaption: Snark missile launch
 coverStyle: 'TOP'

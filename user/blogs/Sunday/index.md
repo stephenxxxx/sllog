@@ -2,7 +2,7 @@
 title: Sunday ⚫
 description: sunday post
 summary: Update. 
-published: '2023-11-12T05:04:20.000+08:00'
+published: '2023-11-12T05:04:20.000-05:00'
 updated: '2023-11-12'
 cover: ./sunday.png
 coverCaption: sunday. Artwork by, Stephen H. Littleton

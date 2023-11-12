@@ -2,7 +2,7 @@
 title: Health ❤️‍🩹 Incident 0
 description: story about my recent health slide
 summary: Took a turn for the worse recently. ☠️
-published: '2023-11-09T09:48:59.000+08:00'
+published: '2023-11-09T09:48:59.000-05:00'
 updated: '2023-11-09'
 cover: ./home_20business_20ideas.webp
 coverCaption: 
