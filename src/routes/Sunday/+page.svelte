@@ -7,6 +7,8 @@
   import Video from '$lib/components/video.svelte';
   import CodeCopy from '$lib/components/code_copy.svelte';
   import InfoBox from '$lib/components/info_box.svelte';
+
+  import Youtube from '$lib/components/youtube.svelte';
 </script>
 
 <Post>
@@ -56,5 +58,6 @@
       Solar Flares.... <del>Go figure</del>
       .
     </p>
+    <Youtube id="IobNcpiwpSc" />
   </article>
 </Post>

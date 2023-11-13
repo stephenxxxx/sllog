@@ -9,6 +9,9 @@ coverCaption: sunday. Artwork by, Stephen H. Littleton
 tags:
   - [Markdown]
 ---
+<script lang="ts">
+  import Youtube from '$lib/components/youtube.svelte'
+</script>
 
 # Sunday Post
 
@@ -37,3 +40,5 @@ It's not much, but it will make someone happy and for a good prices too.
 ![u1f47f_u1f31e.png](u1f47f_u1f31e.png)  
 
 Solar Flares.... ~~Go figure~~.  
+
+<Youtube id="IobNcpiwpSc"/>
