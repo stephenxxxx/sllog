@@ -42,3 +42,5 @@ They try to make me look like the biggest criminal. I am still waiting myself. I
 At any rate, everyone from my past who is not here now? You are all garbage and I want nothing to do with you. You are trash, I can see you looking me up and down trying every angle to scam me. They are all thieves and criminals, I would use that as a warning to that I am not associating with anyone from my past as a testemant to their character. It's spot on like clockwork and I will stand by my testamants. My real family is right here, we've lived a very crazy life but we've done it together. I love my family and I have no concern for outsiders who attempt to interlope and interfere at this tough time. I will end you if you attempt a scam, I am fed up, and I will choose that route first. Fed up and this society is a lie. Its all fake, you have to just force people to do things. They are unworthy of respect and must be attacked into a poisition of compliance. Pure and simple.  
 
 ![Smoking Monday](/Monday/legal-cannabis.webp)
+
+<Youtube id="DW-IMdHzFsc"/>

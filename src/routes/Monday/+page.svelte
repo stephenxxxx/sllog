@@ -86,5 +86,6 @@
       simple.
     </p>
     <p><ImgZoom src="/Monday/legal-cannabis.webp" alt="Smoking Monday"></ImgZoom></p>
+    <Youtube id="DW-IMdHzFsc" />
   </article>
 </Post>
