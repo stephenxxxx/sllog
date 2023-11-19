@@ -2,3 +2,4 @@
 git add -A
 git commit -m "GoGit"
 git push
+curl https://api.honeybadger.io/v1/check_in/eZIw3w &> /dev/null

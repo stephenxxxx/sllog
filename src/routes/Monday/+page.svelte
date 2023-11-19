@@ -60,8 +60,10 @@
     </p>
     <p>
       We&#39;re doing alright, I&#39;m doing just fine. I feel strange. That fatboy slim video is EXACTLY DEAD ON on
-      musicvidz3 <ImgZoom src="https://musicvidz3.stephenlittleton.com/" alt="https://musicvidz3.stephenlittleton.com"
-      ></ImgZoom> crazy, its like I&#39;ve got the visions or something!
+      musicvidz3 <a href="https://musicvidz3.stephenlittleton.com" rel="external">
+        https://musicvidz3.stephenlittleton.com
+      </a>
+       crazy, its like I&#39;ve got the visions or something!
     </p>
     <p>
       All joking aside, these are known things, they are taunts, they are also informations. As an info broker? I love

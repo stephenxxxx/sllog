@@ -33,7 +33,7 @@ Retribution comes and it goes, It's no big deal. I enjoy it, I've experienced it
 
 So anyways, the end results are in. Take a look around you at the ... damage? I tend to see more a clean, nicely put together place that is rife for cleaning. That's what I've been doing. Cleaning. It feels good, man.  
 
-We're doing alright, I'm doing just fine. I feel strange. That fatboy slim video is EXACTLY DEAD ON on musicvidz3 ![https://musicvidz3.stephenlittleton.com](https://musicvidz3.stephenlittleton.com) crazy, its like I've got the visions or something!  
+We're doing alright, I'm doing just fine. I feel strange. That fatboy slim video is EXACTLY DEAD ON on musicvidz3 [https://musicvidz3.stephenlittleton.com](https://musicvidz3.stephenlittleton.com) crazy, its like I've got the visions or something!  
 
 All joking aside, these are known things, they are taunts, they are also informations. As an info broker? I love information of all sorts.  
 

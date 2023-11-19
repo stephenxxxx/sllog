@@ -35,7 +35,7 @@ export const siteConfig: Site.Config = {
     website: 'https://stephenlittleton.com',
     github: 'https://github.com/stephenxxxx',
     email: 'stephen@stephenlittleton.com',
-    bio: `平和 Peace Begin 安宁<br/>笑顔 With Smile 微笑<br/><a href="https://en.wikipedia.org/wiki/File:Georgian_national_anthem.oga">თავისუფლება</a><br/>Мир начинается<br>с улыбки`,
+    bio: 'Stephen H. Littleton<br>Computer Systems<br>&<br>Information Technology<br>+1(706)315-9678',
   },
 };
 
@@ -50,19 +50,6 @@ export const headConfig: Site.Head = {
       : [
           // For Production Environment
 
-          // Replace the following with your own setting
-
-          // Plausible
-          //'<link rel="preconnect" href="https://plausible.kwchang0831.dev" />',
-          //'<script defer type="text/partytown" data-domain="svelte-qwer.vercel.app" src="https://plausible.kwchang0831.dev/js/plausible.js"></script>',
-          // Google tag (gtag.js)
-          // `<script type="text/partytown" src="https://www.googletagmanager.com/gtag/js?id=G-LQ73GWF6XT"></script>`,
-          //`<script type="text/partytown">
-          //  window.dataLayer = window.dataLayer || [];
-          //  function gtag(){dataLayer.push(arguments);}
-          //  gtag('js', new Date());
-          //  gtag('config', 'G-LQ73GWF6XT');
-          //</script>`,
         ],
 };
 

@@ -24,10 +24,12 @@
     </p>
     <h2 id="my-point"><a href="#my-point">My Point?</a></h2>
     <p>
-      There is a movie poster in that scene and it&#39;s called <ImgZoom
-        src="https://en.wikipedia.org/wiki/See_You_Next_Wednesday"
-        alt="See You Next Wednsday"></ImgZoom
-      >. It was a name of a movie that had never been made. There was always talks but the movie had never actually
+      There is a movie poster in that scene and it&#39;s called <a
+        href="https://en.wikipedia.org/wiki/See_You_Next_Wednesday"
+        rel="external">
+        See You Next Wednsday
+      </a>
+      . It was a name of a movie that had never been made. There was always talks but the movie had never actually
       gotten made. Each time it was referenced it was a different movie altogether. I don&#39;t know why I felt the need
       to research that poster, nor do I fully understand it, but the details led me to some pretty interesting caviats.
       Stuff that I had no idea was actually quite interesting.
