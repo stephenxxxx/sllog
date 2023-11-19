@@ -35,7 +35,7 @@ export const siteConfig: Site.Config = {
     website: 'https://stephenlittleton.com',
     github: 'https://github.com/stephenxxxx',
     email: 'stephen@stephenlittleton.com',
-    bio: 'Stephen H. Littleton<br>Computer Systems<br>&<br>Information Technology<br>+1(706)315-9678',
+    bio: 'Computer Systems<br>&<br>Information Technology<br><br>+1(706)315-9678',
   },
 };
 
