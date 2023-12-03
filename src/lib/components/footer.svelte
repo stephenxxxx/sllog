@@ -53,7 +53,8 @@
           style="display:inline-block;">
           CC BY-NC-SA 4.0
         </a>
-        <p><a href="https://status.stephenlittleton.com/">Stephen's System Status Service</a></p>
+        <p><a href="https://status.stephenlittleton.com/">Stephen's Littleton's Status Page</a></p>
+        <p><a href="https://stephenlittleton.statuspage.io/">Stephen's System Status Service</a></p>
       </main>
     </footer>
   {/key}
