@@ -10,6 +10,14 @@
 
   import Youtube from '$lib/components/youtube.svelte';
   import Custom from '$custom/custom.svelte';
+  const const_variable = 999;
+
+  import Folder from '$lib/components/folder.svelte';
+
+  let configFolder = [
+    { name: 'QWER.config.js', icon: 'i-vscode-icons-file-type-typescript-official' },
+    { name: 'site.ts', icon: 'i-bxs-file-js' },
+  ];
 </script>
 
 <Post>
@@ -20,7 +28,6 @@
       not sure what everyone was fussing about. It went over pretty easy, almost automatically. I&#39;ve discovered some
       very important discoveries over the weekend more specifically I&#39;ve discovered my own path is a little clearer.
     </p>
-    <p><ImgZoom src="/monday/phonewaves.gif" alt="Phone Emitting Waves and Blurred Skull Background"></ImgZoom></p>
     <p>
       Everything appears to be on the fritz. It&#39;s all coming down and people are aware. They keep trying to hide it
       and trying to pull what is known as a PUMP and DUMP. What that is, they overstate the value of something and when
@@ -36,6 +43,7 @@
       There are other mitigating factors that allowed me to come to such a damning opinion of the coin. I will bring
       those up at a later date.
     </p>
+    <p><ImgZoom src="/Monday/phonewaves.gif" alt="Phone Emitting Waves and Blurred Skull Background"></ImgZoom></p>
     <p>
       We were FOOLS to believe people wouldn&#39;t manipulate the market. Anything electronic and there will always be
       someone who feels like it&#39;s their own personal right to be able to trespass anywhere they please. We say zero
@@ -50,7 +58,7 @@
       market itself. By trying to become decentralized they created a new central source with even worse problems and
       issues.
     </p>
-    <ImgZoom src="/monday/Bitcoin-Will-Suffer.webp" alt="" class="h-full object-cover">Bitcoin Will Suffer</ImgZoom>
+    <ImgZoom src="/Monday/Bitcoin-Will-Suffer.webp" alt="" class="h-full object-cover">Bitcoin Will Suffer</ImgZoom>
 
     <p>
       The simple fact that it gained so much popularity back in the past now means that its in the waning phase with all
