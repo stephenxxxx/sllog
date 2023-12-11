@@ -9,85 +9,57 @@
   import InfoBox from '$lib/components/info_box.svelte';
 
   import Youtube from '$lib/components/youtube.svelte';
+  import Custom from '$custom/custom.svelte';
 </script>
 
 <Post>
   <article slot="post_content">
-    <h1 id="monday-post"><a href="#monday-post">Monday Post</a></h1>
+    <h1 id="monday-again"><a href="#monday-again">Monday - again.</a></h1>
     <p>
-      First off, lets discuss the details of my situation that was never taken care of. I had been working for quite
-      some time doing what I need to. Now that I am 41 and able to accurately ascertain my situation, I realize I am
-      quite a victim. This is purposely done on my behalf so I can&#39;t complain. Here&#39;s why.
+      So here we are at the start of another week. I can&#39;t say I&#39;m surprised, I knew we could do it and I&#39;m
+      not sure what everyone was fussing about. It went over pretty easy, almost automatically. I&#39;ve discovered some
+      very important discoveries over the weekend more specifically I&#39;ve discovered my own path is a little clearer.
+    </p>
+    <p><ImgZoom src="/monday/phonewaves.gif" alt="Phone Emitting Waves and Blurred Skull Background"></ImgZoom></p>
+    <p>
+      Everything appears to be on the fritz. It&#39;s all coming down and people are aware. They keep trying to hide it
+      and trying to pull what is known as a PUMP and DUMP. What that is, they overstate the value of something and when
+      its value rises they sell what they know is artifically inflated at a higher price by means of deception alone. We
+      saw this most recently with bitcoin. The market is still fresh but I can almost guarantee this will be the case.
+      Unless they are finding some sucker, the coin is destined to decrease substantially until its value is no more an
+      issue then its ability to act as a pseudo currency.
     </p>
     <p>
-      I went through life just doing the right thing and never really causing waves. People often take advantage over
-      me, but I just do my work, complete the task and if they exhibit that type of behavior? Well, I just leave them
-      alone permanantly. I use myself and the situation or job as the test, I don&#39;t go out making one up, I use what
-      is laid out before me. This is how I work, I am not God Almighty, and I don&#39;t pretend to be. Playing god means
-      you try to take control over someone&#39;s life. Weather you tell on them to get them to do something or weather
-      you simply try to force them, it&#39;s still playing god, oppression. Most commonly this is displayed as, he has
-      to do it the same way I did it. Now that may be true for instructions or recipes. However, living life? You
-      can&#39;t dictate what someone should or should not have experienced. That&#39;s what reality and consequense,
-      cause and effect are for.
-    </p>
-    <p><ImgZoom src="/Monday/decfix2168737818276723.webp" alt="Dolphin Energy Club"></ImgZoom></p>
-    <p>
-      So I was never paid for the final job I did in my most famous encounter. We are talking upwards of $4k. Now that
-      all time has past, I am certain of the outcome. They are thieves in that sense, plain and simple. They will not
-      deny it and probably have a twisted sense of celebration that rides along the coatails with them.
-    </p>
-    <p><ImgZoom src="/Monday/decfix2168737818276723.webp" alt="Dolphin Energy Club"></ImgZoom></p>
-    <p>
-      The main reason why I realized that my father brought us here to kill us. He did shit that I would NEVER EVER
-      dream of doing or having my loved ones do. The man was insane. They didn&#39;t teach you to be a man or be tough,
-      they were teaching you how to get ur head blown off. There is no tough stuff, jokes, all that. It was all lies. He
-      would always force his will, just like everyone else. Once you start forcing your will it becomes a molestation.
-      So basically this place helped a known abuser steal wages from a hard working innocent individual.
-      Congratulations! I want that to stick when they are questioning their demises. Trust me, it&#39;s going to hit
-      them when they least expect it. Perhaps that&#39;s the reason for the sudden fallout? Even in death, these fat
-      ugly molesters tend to flock together.
-    </p>
-    <p><ImgZoom src="/Monday/internal-publish-new-tax.webp" alt="New Tax Internal Publish"></ImgZoom></p>
-    <p>
-      Retribution comes and it goes, It&#39;s no big deal. I enjoy it, I&#39;ve experienced it healthily many, many
-      times. It has to be though. There is no such thing as a mercy because it is non-existant situation to begin with.
-      The confusion will soon set in for them again and that will be the end. That&#39;s all they ever gained,
-      confusion.
+      The reason I say this is because if it were true, I usually get and accept the news faster then most people. If I
+      were ahead of the game, hearing about a bitcoin rise would put me in a good position. It doesn&#39;t matter how
+      many people buy in, the price doesn&#39;t seem to react to anything other then it&#39;s own market manipulation.
+      There are other mitigating factors that allowed me to come to such a damning opinion of the coin. I will bring
+      those up at a later date.
     </p>
     <p>
-      So anyways, the end results are in. Take a look around you at the ... damage? I tend to see more a clean, nicely
-      put together place that is rife for cleaning. That&#39;s what I&#39;ve been doing. Cleaning. It feels good, man.
+      We were FOOLS to believe people wouldn&#39;t manipulate the market. Anything electronic and there will always be
+      someone who feels like it&#39;s their own personal right to be able to trespass anywhere they please. We say zero
+      trust, but there has to be some trust. You can&#39;t just say, &quot;I don&#39;t trust you&quot; and call that
+      zero trust, it has to be in your actions. Using currency implies a level of trust that is there at least in a
+      social manner. The ability to use the currency unimpeded shows a level of trust that the rest of society has in
+      you. So there has to be some trust. The seperation of technology and investment is so great that they try to hide
+      it at all costs.
     </p>
     <p>
-      We&#39;re doing alright, I&#39;m doing just fine. I feel strange. That fatboy slim video is EXACTLY DEAD ON on
-      musicvidz3 <a href="https://musicvidz3.stephenlittleton.com" rel="external">
-        https://musicvidz3.stephenlittleton.com
-      </a>
-       crazy, its like I&#39;ve got the visions or something!
+      It is a great technology. But it just doesn&#39;t have the power to be an investment to anyone other then the
+      market itself. By trying to become decentralized they created a new central source with even worse problems and
+      issues.
     </p>
+    <ImgZoom src="/monday/Bitcoin-Will-Suffer.webp" alt="" class="h-full object-cover">Bitcoin Will Suffer</ImgZoom>
+
     <p>
-      All joking aside, these are known things, they are taunts, they are also informations. As an info broker? I love
-      information of all sorts.
+      The simple fact that it gained so much popularity back in the past now means that its in the waning phase with all
+      the burnouts and has beens. The bitcoin scene is less desireable then ever. Simply mentioning the word can put
+      grown men to sleep. It&#39;s just not what it used to be when it was new and a developing sector. As with
+      anything, however, its momentumn was stolen and redirected elsewhere. Shrouded in anonymity and even wilder smoke
+      and mirror type mythology, its use quickly waned into nothing more than a bad investment that was once worth way
+      more and a promise to become what it was once capable of.
     </p>
-    <p>
-      They try to make me look like the biggest criminal. I am still waiting myself. I&#39;ve never really even stolen
-      before. I wouldn&#39;t have ever even been able to fathom something like that. You can pretend, but man, it just
-      wouldn&#39;t sit right with me, hurting others. I&#39;ve never gotten into a real fight, never attacked anyone.
-      The worst I&#39;ve done was use my intellect or just flat our curse people. But those are words. They are thoughts
-      and words. Cosntructives, not destructives.
-    </p>
-    <p>
-      At any rate, everyone from my past who is not here now? You are all garbage and I want nothing to do with you. You
-      are trash, I can see you looking me up and down trying every angle to scam me. They are all thieves and criminals,
-      I would use that as a warning to that I am not associating with anyone from my past as a testemant to their
-      character. It&#39;s spot on like clockwork and I will stand by my testamants. My real family is right here,
-      we&#39;ve lived a very crazy life but we&#39;ve done it together. I love my family and I have no concern for
-      outsiders who attempt to interlope and interfere at this tough time. I will end you if you attempt a scam, I am
-      fed up, and I will choose that route first. Fed up and this society is a lie. Its all fake, you have to just force
-      people to do things. They are unworthy of respect and must be attacked into a poisition of compliance. Pure and
-      simple.
-    </p>
-    <p><ImgZoom src="/Monday/legal-cannabis.webp" alt="Smoking Monday"></ImgZoom></p>
-    <Youtube id="DW-IMdHzFsc" />
+    <Youtube id="5Ih5IVZFIhM" />
   </article>
 </Post>
