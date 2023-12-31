@@ -61,7 +61,7 @@ This is ||Spoiler Text||.
 
 ### Katex Block
 
-Katex Block are facanced by
+Katex Block are denoted by
 
 ````text
 ```math
@@ -83,7 +83,7 @@ Also
 
 ### Katex Inline
 
-Katex inline are facanced by
+Katex inline are denoted by
 
 ````text
 `$kaTex Inline Text$`

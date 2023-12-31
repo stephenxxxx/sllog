@@ -19,19 +19,23 @@ Welcome to my log and postings. You can find information here, I have a develope
 
 ## ⚡ Some of the Works I've Done
 
-- 🎬 [NEXFLIX](https://nexflix.stephenlittleton.com/intro.html) - A Fun Movie Review Website Written in HTML5 and CSS3 with JEKYLL as a development scaffold. Utilizes DISQUS for leaving comments and chatting. 
+- 🎬 🎚 🎛 [NEXFLIX](https://nexflix.stephenlittleton.com/intro.html) - A Fun Movie Review Website Written in HTML5 and CSS3 with JEKYLL as a development scaffold. Utilizes DISQUS for leaving comments and chatting. 
 
-- 🎧 🎚 🎛 [MUSICVIDZ](https://musicvidz.stephenlittleton.com/) - Simple and plain youtube music video site. Naturally AD-FREE and NO-COOKIE youtube videos. No special coding is applied. Just used the code when you click the share button and you embed with privacy mode. 
+- 🎧 🎚 🎛 [MUSICVIDZ](https://musicvidz.stephenlittleton.com/) - Simple and plain youtube music video site. Naturally AD-FREE and NO-COOKIE YouTube videos. No special coding is applied. Just used the code when you click the share button and you embed with privacy mode. 
 
-- 🧮 📱 🧪 [NEOCITIES](https://stephen730.neocities.org) - A Neocities page, throwback to the old windows style. Jekyll based backend uploaded using WEBDAV. 
+- 🧪 [NEOCITIES](https://stephen730.neocities.org) - A Neocities page, throwback to the old windows style. Jekyll based backend uploaded using WEBDAV. 
 
--  This site / Site utilizes vercel and svelte/qwer theme by kwchang0831. My first svelte project.
+- 🧮 [STEPHEN'S DEV PAGE](https://dev.stephenlittleton.com) - Open source listing, work history, skills, general showcase of ability and developer information. Donate links included to PayPal and cashapp for easy payment options.
 
-- ✍️ [Blog](https://blog.stephenlittleton.com) - A blog website that uses the UNO theme by jekyll. It was a fun project and one of my first productions environment challenges. Orignally was the initial landing page but was moved to the blog subdomain in order to initilize a new site.
+- 📱 [Gallery](https://gallery.stephenlittleton.com) - My music album, artwork, some fun HTML renderings and more located here.
+
+-  This site / Site utilizes vercel and svelte/qwer theme by kwchang0831. My first svelte project. Currently using netlify for hosting. Vite pushes what I need to the CDN and deployment is fun. Site is very responsive for such a heavy load. Consistent load times.
+
+- ✍️ [Blog](https://blog.stephenlittleton.com) - A blog website that uses the UNO theme by jekyll. It was a fun project and one of my first productions environment challenges. Originally was the initial landing page but was moved to the blog subdomain in order to initialize a new site.
 
 ## ❓ Issues / Problems / Questions
 
-I'm in the process of implementing some sort of crazy message board using discorse but its on the list. [Just email me](mailto:stephen@stephenlittleton.com).
+I'm in the process of implementing some sort of crazy message board using discourse but its on the list. [Just email me](mailto:stephen@stephenlittleton.com).
 
 ## 📝 License
 

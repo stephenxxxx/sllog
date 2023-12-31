@@ -26,23 +26,23 @@
       <a href="#i-recently-had-a-health-scare">I recently had a health scare.</a>
     </h1>
     <p>
-      Earlier this year I had a similar incident which ended up having to have me land in the emergecny room. It was the
-      tailend of January to be specific enough. Anyway, I&#39;m not sure what happened this time. I felt like I was
+      Earlier this year I had a similar incident which ended up having to have me land in the emergency room. It was the
+      tail-end of January to be specific enough. Anyway, I&#39;m not sure what happened this time. I felt like I was
       being observed and I had some strange markings shot in my face, I don&#39;t know what it was but something like a
-      fishbone material, a soft calcium type. That&#39;s where it feels like the source of the infection started. The
+      fish bone material, a soft calcium type. That&#39;s where it feels like the source of the infection started. The
       rest is just irritation. At any rate, I kept going and feeling sicker and sicker until I couldn&#39;t even keep
       water down. This time, there was no specific symptom to nail it down to, and I didn&#39;t go to the Hospital and
       here&#39;s why. First off, the one time I thought I was being poisoned because I couldn&#39;t even see straight,
       so they threw me in the loony bin for observation for like a few days. I guess I can understand but they don&#39;t
       really know what the heck and it was pretty rude. It&#39;s more of a small town thing and it was a personal
       vendetta type thing of hospital workers, staff, and just people that I&#39;d rather have nothing to do with quite
-      frankly, and I damn bloody well mean that! Everyone knows st francis is a dump and it seems like it&#39;s a hold
+      frankly, and I damn bloody well mean that! Everyone knows ST. Francis is a dump and it seems like it&#39;s a hold
       up for the mafia or some shit. Well I was bloody well OUTRAGED. I thought my mother was poisoning me. It turns out
       she was! But not in the intentional sense. Our fridge broke. She was probably ignoring it and I detected that
-      deception. It&#39;s been really rough and all our appliances are dying and some of our pets have unfortuantely
+      deception. It&#39;s been really rough and all our appliances are dying and some of our pets have unfortunately
       passed. Every research I did I found was everyone all saying the same thing. You NEVER believe these people until
-      you experience it yourself. These things do happen, yes. That&#39;s why I&#39;m such an advocate for safety
-      amongst anything.
+      you experience it yourself. These things do happen, yes. That&#39;s why I&#39;m such an advocate for safety above
+      anything.
     </p>
     <p>
       This time it was bad enough to illicit the use of EXTRA STRENGTH GUMMIES. Yes, delta 9s. I don&#39;t know what it
@@ -50,15 +50,15 @@
       tell you, I don&#39;t know what got me sick, but I know what kept me alive!!!
     </p>
     <p>
-      Fortunately, and I am seriously putting all joking aside. I still had my precsription from earlier this year. So I
+      Fortunately, and I am seriously putting all joking aside. I still had my prescription from earlier this year. So I
       was able to take the rest of those and no problem, thank you MEDICAL CENTER/PIEDMONT whatever you guys are these
       days, this is such a professional place and I was instantly at ease.
     </p>
     <p>
-      I was in fear for my LIFE at the st francis place. Those people are overworked and there is no safety net to leave
-      this is like 0 tolerance shut up and eat your porage or we smack you type of stuff. I wasnt going to even press
-      charges I was just wanting to get better maybe I deserved it who knows? I am a jerk lately with my health stuff.
-      But honestly, no one deserves to be punished like that where I&#39;m from. Just informed.
+      I was in fear for my LIFE at the ST. Francis place. Those people are overworked and there is no safety net to
+      leave this is like 0 tolerance shut up and eat your porridge or we smack you type of stuff. I wasn&#39;t going to
+      even press charges I was just wanting to get better maybe I deserved it who knows? I am a jerk lately with my
+      health stuff. But honestly, no one deserves to be punished like that where I&#39;m from. Just informed.
     </p>
     <p>
       It is nothing to anyone&#39;s character or whatever, this is just the crap I have to go through. I took a bath! It
@@ -66,7 +66,7 @@
     </p>
     <p><ImgZoom src="/incident0/35w-bridge-collapse-002.webp" alt="Example1" class="h-full object-cover"></ImgZoom></p>
     <p>
-      After my bath I thought I was going to die, however, it was touch and go. I just made a halloween post, and wanted
+      After my bath I thought I was going to die, however, it was touch and go. I just made a Halloween post, and wanted
       to celebrate by at least going OUTSIDE at the Very Least........ i just wasn&#39;t feeling good.
     </p>
     <p>

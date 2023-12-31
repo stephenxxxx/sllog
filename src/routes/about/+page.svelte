@@ -28,7 +28,7 @@
     <ul>
       <li>
         <p>
-          🎬 <a href="https://nexflix.stephenlittleton.com/intro.html" rel="external">NEXFLIX</a>
+          🎬 🎚 🎛 <a href="https://nexflix.stephenlittleton.com/intro.html" rel="external">NEXFLIX</a>
            - A Fun Movie Review Website Written in HTML5 and CSS3 with JEKYLL as a development scaffold. Utilizes DISQUS
           for leaving comments and chatting.
         </p>
@@ -36,29 +36,48 @@
       <li>
         <p>
           🎧 🎚 🎛 <a href="https://musicvidz.stephenlittleton.com/" rel="external">MUSICVIDZ</a>
-           - Simple and plain youtube music video site. Naturally AD-FREE and NO-COOKIE youtube videos. No special coding
+           - Simple and plain youtube music video site. Naturally AD-FREE and NO-COOKIE YouTube videos. No special coding
           is applied. Just used the code when you click the share button and you embed with privacy mode.
         </p>
       </li>
       <li>
         <p>
-          🧮 📱 🧪 <a href="https://stephen730.neocities.org" rel="external">NEOCITIES</a>
+          🧪 <a href="https://stephen730.neocities.org" rel="external">NEOCITIES</a>
            - A Neocities page, throwback to the old windows style. Jekyll based backend uploaded using WEBDAV.
         </p>
       </li>
-      <li><p>This site / Site utilizes vercel and svelte/qwer theme by kwchang0831. My first svelte project.</p></li>
+      <li>
+        <p>
+          🧮 <a href="https://dev.stephenlittleton.com" rel="external">STEPHEN&#39;S DEV PAGE</a>
+           - Open source listing, work history, skills, general showcase of ability and developer information. Donate links
+          included to PayPal and cashapp for easy payment options.
+        </p>
+      </li>
+      <li>
+        <p>
+          📱 <a href="https://gallery.stephenlittleton.com" rel="external">Gallery</a>
+           - My music album, artwork, some fun HTML renderings and more located here.
+        </p>
+      </li>
+      <li>
+        <p>
+          This site / Site utilizes vercel and svelte/qwer theme by kwchang0831. My first svelte project. Currently
+          using netlify for hosting. Vite pushes what I need to the CDN and deployment is fun. Site is very responsive
+          for such a heavy load. Consistent load times.
+        </p>
+      </li>
       <li>
         <p>
           ✍️ <a href="https://blog.stephenlittleton.com" rel="external">Blog</a>
            - A blog website that uses the UNO theme by jekyll. It was a fun project and one of my first productions environment
-          challenges. Orignally was the initial landing page but was moved to the blog subdomain in order to initilize a
-          new site.
+          challenges. Originally was the initial landing page but was moved to the blog subdomain in order to initialize
+          a new site.
         </p>
       </li>
     </ul>
     <h2 id="issues-problems-questions"><a href="#issues-problems-questions">❓ Issues / Problems / Questions</a></h2>
     <p>
-      I&#39;m in the process of implementing some sort of crazy message board using discorse but its on the list. <a
+      I&#39;m in the process of implementing some sort of crazy message board using discourse but its on the list. <a
         href="mailto:stephen@stephenlittleton.com">
         Just email me
       </a>

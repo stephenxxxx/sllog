@@ -2,7 +2,7 @@
   import { page } from '$app/stores';
   import { siteConfig } from '$config/site';
   import LL from '$i18n/i18n-svelte';
-  import Error404 from '$assets/404.webp';
+  import Error404 from '$assets/404.gif';
 </script>
 
 <svelte:head>
@@ -21,7 +21,7 @@
       draggable="false"
       class="select-none max-w-lg w-full h-auto"
       src={Error404}
-      alt="404.webp" />
+      alt="404.gif" />
     <a href="/" class="btn btn-ghost underline text-lg !p4" target="_self">{$LL.Page404BackHome()}</a>
   </article>
 </main>

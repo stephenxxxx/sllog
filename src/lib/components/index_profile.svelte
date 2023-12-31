@@ -28,7 +28,7 @@
   </div>
 
   <h1 class="p-name text-2xl font-bold">{siteConfig.author.name}</h1>
-  <p class="p-note text-base font-semibold op75 bg-clip-text text-transparent bg-gradient-to-tr from-emerald-500 from-10% via-sky-500 via-50% to-green-300 to-90%">
+  <p class="p-note text-base font-bold op75 bg-gradient-to-tr from-teal-300 to-teal-700 bg-clip-text text-transparent">
     {@html siteConfig.author.bio}
   </p>
 

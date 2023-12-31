@@ -11,7 +11,7 @@ tags:
 ---
 # Internet Freedom
 
-**Something we often** take for granted is our internet freedom. All around us are name brands that represent years of influence and struggle even if the companies themselves do not. We have a choice to use these brands sometimes or we can make other decisions. Why do these choices feel so important even though we are constantly being told they don't? Brands represent a culmination of the past economy and the struggles they've alleviated to attain their iconic logos. They very seldom represent an actual idea or a stance as they are portrayed. The task of doctrinairism is left up to marketing as tastes, much like people's viewpoints, often change.  
+**Something we often** take for granted is our internet freedom. All around us are name brands that represent years of influence and struggle even if the companies themselves do not. We have a choice to use these brands sometimes or we can make other decisions. Why do these choices feel so important even though we are constantly being told they don't? Brands represent a culmination of the past economy and the struggles they've alleviated to attain their iconic logos. They very seldom represent an actual idea or a stance as they are portrayed. The task of indoctrination is left up to marketing as tastes, much like people's viewpoints, often change.  
 
 I've had the pleasure of being able to express my freedom by being able to look behind the veil of secrecy and have a fully transparent view of the lay of the land as it were. While the specifics still remain shrouded in mystery as they are completely devoid of relevancy, the bigger picture has most definitely been painted.  
 

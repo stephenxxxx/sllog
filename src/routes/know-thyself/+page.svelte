@@ -18,7 +18,7 @@
       even if the companies themselves do not. We have a choice to use these brands sometimes or we can make other decisions.
       Why do these choices feel so important even though we are constantly being told they don&#39;t? Brands represent a
       culmination of the past economy and the struggles they&#39;ve alleviated to attain their iconic logos. They very seldom
-      represent an actual idea or a stance as they are portrayed. The task of doctrinairism is left up to marketing as tastes,
+      represent an actual idea or a stance as they are portrayed. The task of indoctrination is left up to marketing as tastes,
       much like people&#39;s viewpoints, often change.
     </p>
     <p>

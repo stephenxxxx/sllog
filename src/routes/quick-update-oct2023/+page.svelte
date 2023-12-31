@@ -28,7 +28,7 @@
     </p>
     <p>
       It wasn&#39;t until recently I&#39;ve decided to go with Shopify to complete all my purchase with my site. They
-      are more closely alligned with my history, they are using tucows, based out of Canada and they provide a ton of
+      are more closely aligned with my history, they are using tucows, based out of Canada and they provide a ton of
       support and API interface logic to handle transactions. They also provide tons of documentation. For all they are
       offering, I&#39;ve decided to give them a real concentrated effort. The technologies are open sourced and they are
       providing full documentation. In software terms, thats really all you can ask for and all you really need. They

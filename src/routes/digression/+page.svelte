@@ -18,11 +18,11 @@
       <a href="#it-and-39-s-been-a-rough-couple-of-weeks">It&#39;s Been a Rough Couple of Weeks</a>
     </h1>
     <p>
-      I think I&#39;ve pinned it down to the freezer. Everytime I eat something out of it, I feel ill. Our situation is
+      I think I&#39;ve pinned it down to the freezer. Every time I eat something out of it, I feel ill. Our situation is
       just like everyone else&#39;s lately, it sucks. Definitely not the best circumstances. I&#39;ve lost my eBay
-      account and upon further inspection it appears thats a common thing to have happen. People are dying so much from
-      food and the news is like the worst of the worst competition. It&#39;s enough to drive anyone insane, however, not
-      me. I find it all rather dull and boring. But, what do you really expect I guess.
+      account and upon further inspection it appears that&#39;s a common thing to have happen. People are dying so much
+      from food and the news is like the worst of the worst competition. It&#39;s enough to drive anyone insane,
+      however, not me. I find it all rather dull and boring. But, what do you really expect I guess.
     </p>
     <ImgZoom src="/digression/533492.webp" alt="Docking Sub" class="h-full object-cover">
       A docking submarine and warship.
@@ -30,9 +30,9 @@
 
     <p>
       I&#39;m feeling a lot better, I guess it might have been something on one of the packaging or maybe it&#39;s
-      something else, who knows. Whatever it is, it hurts my stomache like crazy. I was down to like 100 lbs, again. The
-      only thing that helped was the epsom salts bath. That and just regular bath. I was stuck just walking slow and
-      really out of comission. Not a nice experience I tell you what. So, I&#39;m happy to be well and not that bad
+      something else, who knows. Whatever it is, it hurts my stomach like crazy. I was down to like 100 lbs, again. The
+      only thing that helped was the Epsom salts bath. That and just regular bath. I was stuck just walking slow and
+      really out of commission. Not a nice experience I tell you what. So, I&#39;m happy to be well and not that bad
       again. I am not sure but I can&#39;t even eat the same things I was eating without experiencing discomfort.
       Coffee, those little sugar free drink things, tons of red meat and beef. I can&#39;t even think about trying that
       kind of stunt right now. So who even knows what it could be, we have to make some changes around here.
@@ -42,10 +42,10 @@
     </ImgZoom>
 
     <p>
-      Working with such a momentumn that I had, I was going for like 2 years almost every day coding constantly in my
+      Working with such a momentum that I had, I was going for like 2 years almost every day coding constantly in my
       spare time or just whenever sometimes all day. I enjoy it, it&#39;s a non trivial means of exercising my mind and
-      it also brings a certain pleasure when everything is programmed correctly. But I was working with such a momentumn
-      that for it to stop like that was really gutwrenching. In more ways then one. It was just that I have everything
+      it also brings a certain pleasure when everything is programmed correctly. But I was working with such a momentum
+      that for it to stop like that was really gut wrenching. In more ways then one. It was just that I have everything
       feeding the next move and for it to be sidestepped like that, well, it throws everything off.
     </p>
     <ImgZoom
@@ -75,7 +75,7 @@
       years before I&#39;m able to pump out something even close to this. That&#39;s the beauty of it though, top end
       tech available to anyone and everyone. It&#39;s an equal playing field. I learned everything on my own at my own
       pace and I am so comfortable where I am right now, I am proud of my knowledge and am fully prepared for any
-      situation that may arise. That&#39;s priceless. That kind of talet and skill is worth a lot. Unfortunately,
+      situation that may arise. That&#39;s priceless. That kind of talent and skill is worth a lot. Unfortunately,
       it&#39;s not respected as well as it should be. Especially where I live.
     </p>
     <ImgZoom src="/digression/i2-4.webp" alt="Sinking boat">Sinking boat</ImgZoom>
