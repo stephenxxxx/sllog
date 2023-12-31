@@ -26,6 +26,12 @@
       <a href="#we-kinda-got-mixed-up-and-turned-around">We kinda got mixed up and turned around</a>
     </h1>
     <p>
+      Let&#39;s just ignore the fact that everything has become extremely strange lately. While we are at it, let&#39;s
+      also ignore how everyone is just going for it. Against better judgments everywhere.... Let&#39;s try to just
+      overlook these awkward, awkward things and resist the urge to just dive in....
+    </p>
+    <p><ImgZoom src="/new-year/1689880650728.gif" alt="How Strange"></ImgZoom></p>
+    <p>
       It&#39;s the end of the year and it is time to reflect on how things went. For most of it, I&#39;ve spent my time
       ranting, raving, coding, and recovering. I did some serious time in the hospital due to an unknown pathogen.
       I&#39;m just happy to be feeling better, I took the prescribed medicine and it seems to be helping. I&#39;ve
@@ -38,6 +44,7 @@
       the fast food every night clan. That&#39;s how I used to live. Either fast food or microwave meals. Terrible
       habits I tell you that much.
     </p>
+    <p><ImgZoom src="/new-year/a69abeb5c4dd6860c8b1a57e5f8d0ba1.gif" alt="Geico Pig Commercial Clip"></ImgZoom></p>
     <p>
       You would think it was 1999 the way everyone is going on. It&#39;s pretty cool though as long as we all just keep
       it simple. It was fun. I can&#39;t believe how in accordance everything was. It truly blew my mind to both witness
@@ -45,6 +52,7 @@
       gauging how far we&#39;ve come and how much everything around us has changed. Some of us are reclaiming lost
       ideals while others are doing those things we always wondered about.
     </p>
+    <p><ImgZoom src="/new-year/13583408667807162873.gif" alt="Smiley"></ImgZoom></p>
     <p>
       I got to have a really chilled out year, for what its worth, as many other people did not. I see now that there is
       a great deal of risk that is only apparent once you are in the proverbial fire so to speak. Living a good life,
@@ -63,8 +71,8 @@
         features and a sleeker interface like a pirate TV station underground in a mad scientist&#39;s sewer layer.
       </li>
       <li>
-        I lost the source to nexflix, the entire thing. So I have to start from scratch it remains untouched and
-        untouchable.
+        I lost the source code to nexflix, as well as my entire back up. my brand new 5tb western digital ruggedized
+        external the entire thing. So I have to start from scratch it remains untouched and untouchable.
       </li>
       <li>still dont have work. Things are pretty hard to sell that were once real easy.</li>
       <li>still have all kinds of issues and stuff but I am starting to see everyone is having these same issues.</li>
