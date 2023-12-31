@@ -79,7 +79,7 @@ export const dateConfig: Site.DateConfig = {
 // Replace with your own Giscus setting
 // See https://giscus.app/
 export const giscusConfig: Giscus.Config = {
-  enable: true,
+  enable: false,
   id: 'giscus-comment',
   repo: 'stephenxxxx/sllog',
   repoId: 'R_kgDOK0FGtg',
