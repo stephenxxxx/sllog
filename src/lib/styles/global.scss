@@ -55,3 +55,13 @@ body.dark::after {
 .tippy-box {
   --at-apply: 'text-base text-center';
 }
+
+svg {
+  margin-left: 0.25em;
+}
+
+.link_externalIcon {
+  white-space: no-wrap;  
+  display: inline-flex;
+  flex-wrap: wrap; 
+}

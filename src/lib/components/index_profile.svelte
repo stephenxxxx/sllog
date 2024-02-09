@@ -28,7 +28,7 @@
   </div>
 
   <h1 class="p-name text-2xl font-bold">{siteConfig.author.name}</h1>
-  <p class="p-note text-base font-bold op75 bg-gradient-to-tr from-teal-300 to-teal-700 bg-clip-text text-transparent">
+  <p class="p-note text-base font-bold op75 bg-gradient-to-tr from-zinc-300 to-zinc-700 bg-clip-text text-transparent">
     {@html siteConfig.author.bio}
   </p>
 
@@ -63,6 +63,16 @@
         <div class="!w-[1.75rem] !h-[1.75rem] i-carbon-logo-twitter" />
       </a>
     {/if}
+    {#if siteConfig.author.bluesky}
+      <a
+        use:tippy
+        href={siteConfig.author.bluesky}
+        rel="author external"
+        class="u-url u-uid btn btn-ghost"
+        aria-label="bluesky">
+        <div class="!w-[1.75rem] !h-[1.75rem] i-carbon-logo-bluesky" />
+      </a>
+    {/if}    
   </div>
 </section>
 
