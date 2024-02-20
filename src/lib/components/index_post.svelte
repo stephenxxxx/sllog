@@ -89,7 +89,7 @@
             {postUpdatedStr}
           </time>
           <h2 class="text-2xl font-bold line-clamp-2 text-ellipsis group-hover:font-900" itemprop="name headline">
-            <a href={data.slug} class="u-url title-link-cyan-500-emerald-500" itemprop="url">
+            <a href={data.slug} class="u-url title-link-amber-700-amber-900" itemprop="url">
               {data.title}
             </a>
           </h2>
@@ -119,7 +119,7 @@
               {postUpdatedStr}
             </time>
             <h2 class="text-2xl font-bold line-clamp-2 text-ellipsis group-hover:font-900" itemprop="name headline">
-              <a href={data.slug} class="u-url title-link-cyan-500-emerald-500" itemprop="url">
+              <a href={data.slug} class="u-url title-link-amber-700-amber-900" itemprop="url">
                 {data.title}
               </a>
             </h2>
@@ -137,7 +137,7 @@
         </time>
 
         <h2 class="text-2xl font-bold line-clamp-2 text-ellipsis group-hover:font-900" itemprop="name headline">
-          <a href={data.slug} class="u-url title-link-cyan-500-emerald-500" itemprop="url">
+          <a href={data.slug} class="u-url title-link-amber-700-amber-900" itemprop="url">
             {#if data.title}
               {data.title}
             {:else}

@@ -7,7 +7,7 @@
   <aside
     class="infobox flex flex-col border-l-5 my4 py1 px4 {statusType === 'info'
       ? 'bg-blue-400/[0.5] border-blue'
-      : ''} {statusType === 'tip' ? 'bg-emerald-400/[0.5] border-emerald' : ''} {statusType === 'caution'
+      : ''} {statusType === 'tip' ? 'bg-yellow-400/[0.5] border-yellow' : ''} {statusType === 'caution'
       ? 'bg-orange-400/[0.5] border-orange'
       : ''} {statusType === 'error' ? 'bg-red-400/[0.5] border-red' : ''} {statusType === 'danger'
       ? 'bg-red-600/[0.5] border-red-800'

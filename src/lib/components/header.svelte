@@ -317,7 +317,7 @@
           cy="50"
           r="40"
           stroke-width="6"
-          class="stroke-emerald"
+          class="stroke-amber"
           style="stroke-dashoffset: {251 - 251 * scrollPercent};" />
       </svg>
     </div>
@@ -348,7 +348,7 @@
           cy="50"
           r="40"
           stroke-width="6"
-          class="stroke-emerald"
+          class="stroke-amber"
           style="stroke-dashoffset: {251 - 251 * scrollPercent};" />
       </svg>
     </div>
