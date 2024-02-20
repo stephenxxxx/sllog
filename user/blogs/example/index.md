@@ -5,7 +5,7 @@ summary: 📝 Showcase basic syntax of Markdown and HTML
 published: '2022-08-09T00:00:00.000-05:00'
 updated: '2023-10-14'
 cover: ./cover.jpg
-coverCaption: Photo by <a href="https://unsplash.com/@etiennegirardet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Etienne Girardet</a> on <a href="https://unsplash.com/s/photos/motivation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+coverCaption: Accept the Mystery - From the movie, <a href="https://en.wikipedia.org/wiki/A_Serious_Man">A Serious Man</a>
 tags:
   - [Markdown]
 ---

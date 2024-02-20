@@ -10,7 +10,7 @@
 
   import Youtube from '$lib/components/youtube.svelte';
   import Custom from '$custom/custom.svelte';
-  const const_variable = 999;
+  const const_variable = 888;
 
   import Folder from '$lib/components/folder.svelte';
 
@@ -93,8 +93,10 @@
     <h2 id="bluesky"><a href="#bluesky">BLUESKY</a></h2>
     <p>
       Okay okay okay, bluesky. It&#39;s decentralized, peer-to-peer communications. I&#39;ve got my domain linked into
-      it, you can find me @stephenlittleton.com there. I&#39;m focused upon things that are going to be positive. The
-      rest of it can get lost.
+      it, you can find me <a href="https://bsky.app/profile/stephenlittleton.com" rel="external">
+        @stephenlittleton.com
+      </a>
+       there. I&#39;m focused upon things that are going to be positive. The rest of it can get lost.
     </p>
     <p>
       So far bluesky is pretty cool, it is just like twitter but with some obvious improvements. You can&#39;t pull the
@@ -106,9 +108,11 @@
     </p>
     <h3 id="links"><a href="#links">Links</a></h3>
     <p>
-      <a href="https://bsky.app/" rel="external">Bluesky Social Network Link</a>
-      is here, bsky.app, in case you want to check it out. Notice the .app extension that is so popular among projects
-      these days. You can also access it at
+      <a href="https://bsky.app/profile/stephenlittleton.com" rel="external">My Bluesky Social Network Link</a>
+      is here,
+      <a href="https://bsky.app" rel="external">bsky.app</a>
+      , in case you want to check it out. Notice the .app extension that is so popular among projects these days. You
+      can also access it at
       <a href="https://blueskyweb.org" rel="external">BlueSkyWeb.org</a>
       .
     </p>
