@@ -179,7 +179,7 @@
             </Dropdown>
           </div>
 
-          <a href="/" class="text-xl font-bold normal-case btn btn-ghost bg-clip-text text-transparent bg-gradient-to-r from-stone-300 to-stone-400" on:click={resetHome}>
+          <a href="/" class="text-xl font-bold normal-case btn btn-ghost bg-clip-text text-transparent bg-gradient-to-r from-amber-700 to-amber-900" on:click={resetHome}>
             {siteConfig.title}
           </a>
 
