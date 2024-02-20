@@ -67,6 +67,6 @@ They try to make it like your comment causes all this so you will stop writing. 
 
 In the end? All this stuff? It's just a whirlwind of fists. As usual. Don't get sucked in.  
 
-[whirlwind](u1fa84_u1f32a-ufe0f.png)  
+![whirlwind](u1fa84_u1f32a-ufe0f.png)  
 
 <Youtube id="w0cDJ2kzQiM" />
