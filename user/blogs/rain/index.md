@@ -57,6 +57,16 @@ I realized all that Facebook stuff was fake designed to hurt me. It was just an 
 
 Most of these people are just liars, thieves, and just are terrible people. I always thought they would do some kind of turn around move and everything would be cool. It turns out, they are just murderers.  
 
+# Recovery
+
+I was hit with a terrible virus or something bad. This coronavirus stuff was just part of it. The bird flu, the swine flu, all that crap was around the same time I had some type of virus as well. I'm not saying I had those, but I'm not saying I didn't. I am not sure. I'm finally feeling better, recovering. There was something wrong with my ears. Someone did something to me and that's just now getting better. I'm taking a lot of Epsom salt baths. So I'm just now getting better I really hadn't been well enough to do all the things I'm now able to do. I tried, I had my moments but always fell back ill.  
+
+It was in the food for sure, especially the niche things that I bought they were tracking me or something. Yes, they do that kind of stuff. The supermarket is one the most heavily surveiled places in America, second only to wall street. It's no stretch to be tailed, followed, and tracked. We were well aware they were doing it, just unaware of how they actually did it.  
+
+They're discovering it's in the flavoring agents, the flavanoids, the spices, all that. It's in the ingredients, every chance they get. We are just now becoming aware of all this stuff and they are fighting to clean the supply lines. You can't compromise, when you do, when you purchase counterfeit items? That's when you give them the opportunity to advance.  
+
+So I'm feeling better, I'm not accepting any more foolishness.  
+
 # Plans
 
 Well, I want to do some work, I need an agent or some type of manager. I am not good at PR or SEO still. I don't really think anyone is, as it's such a trying time in general for such things. I'm just trying to figure things out now and just chill and move on. I don't really have any plans and I don't plan to.  

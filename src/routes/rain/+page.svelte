@@ -119,6 +119,28 @@
       Most of these people are just liars, thieves, and just are terrible people. I always thought they would do some
       kind of turn around move and everything would be cool. It turns out, they are just murderers.
     </p>
+    <h1 id="recovery"><a href="#recovery">Recovery</a></h1>
+    <p>
+      I was hit with a terrible virus or something bad. This coronavirus stuff was just part of it. The bird flu, the
+      swine flu, all that crap was around the same time I had some type of virus as well. I&#39;m not saying I had
+      those, but I&#39;m not saying I didn&#39;t. I am not sure. I&#39;m finally feeling better, recovering. There was
+      something wrong with my ears. Someone did something to me and that&#39;s just now getting better. I&#39;m taking a
+      lot of Epsom salt baths. So I&#39;m just now getting better I really hadn&#39;t been well enough to do all the
+      things I&#39;m now able to do. I tried, I had my moments but always fell back ill.
+    </p>
+    <p>
+      It was in the food for sure, especially the niche things that I bought they were tracking me or something. Yes,
+      they do that kind of stuff. The supermarket is one the most heavily surveiled places in America, second only to
+      wall street. It&#39;s no stretch to be tailed, followed, and tracked. We were well aware they were doing it, just
+      unaware of how they actually did it.
+    </p>
+    <p>
+      They&#39;re discovering it&#39;s in the flavoring agents, the flavanoids, the spices, all that. It&#39;s in the
+      ingredients, every chance they get. We are just now becoming aware of all this stuff and they are fighting to
+      clean the supply lines. You can&#39;t compromise, when you do, when you purchase counterfeit items? That&#39;s
+      when you give them the opportunity to advance.
+    </p>
+    <p>So I&#39;m feeling better, I&#39;m not accepting any more foolishness.</p>
     <h1 id="plans"><a href="#plans">Plans</a></h1>
     <p>
       Well, I want to do some work, I need an agent or some type of manager. I am not good at PR or SEO still. I
