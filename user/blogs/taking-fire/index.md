@@ -47,13 +47,13 @@ So many times I've relied on others to confirm my suspicions so as I may act acc
 
 ## BLUESKY
 
-Okay okay okay, bluesky. It's decentralized, peer-to-peer communications. I've got my domain linked into it, you can find me [@stephenlittleton.com](https://bsky.app/profile/stephenlittleton.com) there. I'm focused upon things that are going to be positive. The rest of it can get lost.  
+Okay okay okay, bluesky. It's decentralized, peer-to-peer communications. I've got my domain linked into it, you can find me [@stephenlittleton.com](https://bsky.app/profile/fediverse.stephenlittleton.com) there. I'm focused upon things that are going to be positive. The rest of it can get lost.  
 
 So far bluesky is pretty cool, it is just like twitter but with some obvious improvements. You can't pull the same stunts you pulled at twitter with the ascii text art. They fixed the breaking line stuff pretty quickly. The ambiance is nice, its classic but modern. Okay, okay... its pretty futuristic scifi and I'm happy as hell I found out they were accepting people without invites. I need to be apprised of this stuff and have some real experience. I've just been involved with proof of concept and now it's actually coming true. Quite an experience and it's free and edge. So one can understand why I'm so.. elated.  
 
 ### Links
 
-[My Bluesky Social Network Link](https://bsky.app/profile/stephenlittleton.com) is here, [bsky.app](https://bsky.app), in case you want to check it out. Notice the .app extension that is so popular among projects these days. You can also access it at [BlueSkyWeb.org](https://blueskyweb.org).  
+[My Bluesky Social Network Link](https://bsky.app/profile/fediverse.stephenlittleton.com) is here, [bsky.app](https://bsky.app), in case you want to check it out. Notice the .app extension that is so popular among projects these days. You can also access it at [BlueSkyWeb.org](https://blueskyweb.org).  
 
 I'm not too sure about the mobile app as I have not attempted it. I am just now figuring out the AT protocol. I'm a big fan of XMPP protocol, the old jabber, mIRC and whatnot.  
 

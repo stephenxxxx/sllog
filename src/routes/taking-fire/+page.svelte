@@ -93,7 +93,7 @@
     <h2 id="bluesky"><a href="#bluesky">BLUESKY</a></h2>
     <p>
       Okay okay okay, bluesky. It&#39;s decentralized, peer-to-peer communications. I&#39;ve got my domain linked into
-      it, you can find me <a href="https://bsky.app/profile/stephenlittleton.com" rel="external">
+      it, you can find me <a href="https://bsky.app/profile/fediverse.stephenlittleton.com" rel="external">
         @stephenlittleton.com
       </a>
        there. I&#39;m focused upon things that are going to be positive. The rest of it can get lost.
@@ -108,7 +108,9 @@
     </p>
     <h3 id="links"><a href="#links">Links</a></h3>
     <p>
-      <a href="https://bsky.app/profile/stephenlittleton.com" rel="external">My Bluesky Social Network Link</a>
+      <a href="https://bsky.app/profile/fediverse.stephenlittleton.com" rel="external">
+        My Bluesky Social Network Link
+      </a>
       is here,
       <a href="https://bsky.app" rel="external">bsky.app</a>
       , in case you want to check it out. Notice the .app extension that is so popular among projects these days. You
