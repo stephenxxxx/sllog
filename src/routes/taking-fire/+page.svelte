@@ -94,7 +94,7 @@
     <p>
       Okay okay okay, bluesky. It&#39;s decentralized, peer-to-peer communications. I&#39;ve got my domain linked into
       it, you can find me <a href="https://bsky.app/profile/fediverse.stephenlittleton.com" rel="external">
-        @stephenlittleton.com
+        @fediverse.stephenlittleton.com
       </a>
        there. I&#39;m focused upon things that are going to be positive. The rest of it can get lost.
     </p>

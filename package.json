@@ -54,12 +54,12 @@
   "devDependencies": {
     "@builder.io/partytown": "^0.8.2",
     "@changesets/cli": "^2.27.1",
-    "@iconify-json/akar-icons": "^1.1.23",
+    "@iconify-json/akar-icons": "^1.1.24",
     "@iconify-json/bxs": "^1.1.10",
     "@iconify-json/carbon": "^1.1.31",
     "@iconify-json/fluent-emoji-flat": "^1.1.16",
     "@iconify-json/ic": "^1.1.17",
-    "@iconify-json/line-md": "^1.1.36",
+    "@iconify-json/line-md": "^1.1.37",
     "@iconify-json/mdi": "^1.1.64",
     "@iconify-json/tabler": "^1.1.109",
     "@iconify-json/vscode-icons": "^1.1.33",
@@ -92,7 +92,7 @@
     "gitmoji-cli": "^8.5.0",
     "husky": "^8.0.3",
     "imagetools-core": "^4.1.0",
-    "katex": "^0.16.9",
+    "katex": "^0.16.10",
     "lint-staged": "^14.0.1",
     "lz-string": "^1.5.0",
     "medium-zoom": "^1.1.0",
@@ -113,7 +113,7 @@
     "typescript": "^5.4.3",
     "unocss": "^0.55.7",
     "unocss-preset-scrollbar": "^0.2.1",
-    "vite": "^4.5.2",
+    "vite": "^4.5.3",
     "vite-imagetools": "^5.1.2"
   },
   "dependencies": {
