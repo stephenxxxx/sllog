@@ -83,6 +83,16 @@
         <div class="!w-[1.75rem] !h-[1.75rem] i-carbon-logo-facebook" />
       </a>
     {/if}        
+    {#if siteConfig.author.flickr}
+      <a
+        use:tippy
+        href={siteConfig.author.flickr}
+        rel="author external"
+        class="u-url u-uid btn btn-ghost"
+        aria-label="flickr">
+        <div class="!w-[1.75rem] !h-[1.75rem] i-carbon-logo-flickr" />
+      </a>
+    {/if}        
   </div>
 </section>
 
