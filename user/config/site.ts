@@ -36,7 +36,7 @@ export const siteConfig: Site.Config = {
     github: 'https://github.com/stephenxxxx',
     // bluesky: 'https://bsky.app/profile/fediverse.stephenlittleton.com',
     facebook: 'https://www.facebook.com/whatdoyouwantonyourtombstone',
-    twitter: 'https://x.com/djreefa',
+    // twitter: 'https://x.com/djreefa',
     flickr: 'https://flickr.com/stephenlittleton/',
     email: 'stephen@stephenlittleton.com',
     bio: 'Top Notch Computer Guy<br><br><a href="sms:17063159678?&body=Hi. Texting you from your website! This is ">+1(706)315-9678</a><br><br> <center> <form action="https://www.paypal.com/donate" method="post" target="_top"><input type="hidden" name="business" value="KF5AT3FRZQVDN" /><input type="hidden" name="no_recurring" value="0" /><input type="hidden" name="item_name" value="Your donation goes towards the furthering of my research which remains open and freely accessible in its original, fun, form." /><input type="hidden" name="currency_code" value="USD" /><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" /><img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" /></form><br>Donation Total $0.00<br><progress id="Progress" max="100" value="0">0%</progress></center>',
