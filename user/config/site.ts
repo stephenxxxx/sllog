@@ -2,7 +2,6 @@ import type { Site } from '$lib/types/site';
 import type { Giscus } from '$lib/types/giscus';
 import type { DD } from '$lib/types/dd';
 
-
 import Avatar from '$assets/avatar.png';
 import Avatar_128 from '$assets/avatar.png?w=128&h=128&format=avif;webp&imagetools';
 import Avatar_48_PNG from '$assets/avatar.png?w=48&h=48&imagetools';
@@ -34,7 +33,7 @@ export const siteConfig: Site.Config = {
     avatar_512_png: Avatar_512_PNG,
     website: 'https://stephenlittleton.com',
     github: 'https://github.com/stephenxxxx',
-    // bluesky: 'https://bsky.app/profile/fediverse.stephenlittleton.com',
+    bluesky: 'https://bsky.app/profile/fediverse.stephenlittleton.com',
     facebook: 'https://www.facebook.com/whatdoyouwantonyourtombstone',
     twitter: 'https://x.com/djreefa',
     flickr: 'https://flickr.com/stephenlittleton/',
@@ -53,7 +52,6 @@ export const headConfig: Site.Head = {
         ]
       : [
           // For Production Environment
-
         ],
 };
 

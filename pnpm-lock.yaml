@@ -37,8 +37,11 @@ importers:
         specifier: ^1.1.37
         version: 1.1.37
       '@iconify-json/mdi':
-        specifier: ^1.1.65
-        version: 1.1.65
+        specifier: ^1.1.66
+        version: 1.1.66
+      '@iconify-json/ri':
+        specifier: ^1.1.20
+        version: 1.1.20
       '@iconify-json/tabler':
         specifier: ^1.1.109
         version: 1.1.109
@@ -998,8 +1001,14 @@ packages:
       '@iconify/types': 2.0.0
     dev: true
 
-  /@iconify-json/mdi@1.1.65:
-    resolution: {integrity: sha512-P9ovos4pKjqwbcUaF5axnHKc1J4djfwLQ6vheJSzbTuZ7gLyonAI/mDDc+ekC4HFCnrYWPjdpkKT+mIujuqOaA==}
+  /@iconify-json/mdi@1.1.66:
+    resolution: {integrity: sha512-7KPF2RVUUWav/hXCM8Ti/smqu3cmgePJpiX9CSkldiL+80+eBRBeKlc4vPOc9jhAItlqIU1vKsbKoPP0JIfgbg==}
+    dependencies:
+      '@iconify/types': 2.0.0
+    dev: true
+
+  /@iconify-json/ri@1.1.20:
+    resolution: {integrity: sha512-yScIGjLFBCJKWKskQTWRjNI2Awoq+VRDkRxEsCQvSfdz41n+xkRtFG2K6J1OVI90ClRHfjFC8VJ2+WzxxyFjTQ==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true
