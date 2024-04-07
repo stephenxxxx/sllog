@@ -16,7 +16,7 @@
       <a href="https://www.github.com/kwchang0831/svelte-QWER" rel="external">QWER</a>
       is simply an Awesoem blog starter and static site generator. Built using
       <a href="https://kit.svelte.dev/" rel="external">SvelteKit</a>
-       and Love ❤.
+      and Love ❤.
     </p>
     <h2 id="try-out-qwer"><a href="#try-out-qwer">🎉 Try out QWER</a></h2>
     <p>
@@ -64,7 +64,7 @@
       <li>
         <p>
           Create a free <a href="https://vercel.com/" rel="external">Vercel</a>
-           account.
+          account.
         </p>
       </li>
       <li>

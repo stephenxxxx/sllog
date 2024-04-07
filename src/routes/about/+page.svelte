@@ -29,34 +29,34 @@
       <li>
         <p>
           🎬 🎚 🎛 <a href="https://nexflix.stephenlittleton.com/intro.html" rel="external">NEXFLIX</a>
-           - A Fun Movie Review Website Written in HTML5 and CSS3 with JEKYLL as a development scaffold. Utilizes DISQUS
-          for leaving comments and chatting.
+          - A Fun Movie Review Website Written in HTML5 and CSS3 with JEKYLL as a development scaffold. Utilizes DISQUS for
+          leaving comments and chatting.
         </p>
       </li>
       <li>
         <p>
           🎧 🎚 🎛 <a href="https://musicvidz.stephenlittleton.com/" rel="external">MUSICVIDZ</a>
-           - Simple and plain youtube music video site. Naturally AD-FREE and NO-COOKIE YouTube videos. No special coding
+          - Simple and plain youtube music video site. Naturally AD-FREE and NO-COOKIE YouTube videos. No special coding
           is applied. Just used the code when you click the share button and you embed with privacy mode.
         </p>
       </li>
       <li>
         <p>
           🧪 <a href="https://stephen730.neocities.org" rel="external">NEOCITIES</a>
-           - A Neocities page, throwback to the old windows style. Jekyll based backend uploaded using WEBDAV.
+          - A Neocities page, throwback to the old windows style. Jekyll based backend uploaded using WEBDAV.
         </p>
       </li>
       <li>
         <p>
           🧮 <a href="https://dev.stephenlittleton.com" rel="external">STEPHEN&#39;S DEV PAGE</a>
-           - Open source listing, work history, skills, general showcase of ability and developer information. Donate links
+          - Open source listing, work history, skills, general showcase of ability and developer information. Donate links
           included to PayPal and cashapp for easy payment options.
         </p>
       </li>
       <li>
         <p>
           📱 <a href="https://gallery.stephenlittleton.com" rel="external">Gallery</a>
-           - My music album, artwork, some fun HTML renderings and more located here.
+          - My music album, artwork, some fun HTML renderings and more located here.
         </p>
       </li>
       <li>
@@ -69,7 +69,7 @@
       <li>
         <p>
           ✍️ <a href="https://blog.stephenlittleton.com" rel="external">Blog</a>
-           - A blog website that uses the UNO theme by jekyll. It was a fun project and one of my first productions environment
+          - A blog website that uses the UNO theme by jekyll. It was a fun project and one of my first productions environment
           challenges. Originally was the initial landing page but was moved to the blog subdomain in order to initialize
           a new site.
         </p>
@@ -100,9 +100,8 @@
     <h2 id="end"><a href="#end">👍 END</a></h2>
     <p>
       Thanks so much for interesting in <a href="https://flickr.com/stephen730" rel="external">me</a>
-      . Please try it out and let me know what you think 😊. I am not tracking you, I have no clue who comes and goes.
-      None of this is costing money and its free to explore. Feel free to click on whatever you want as much as you
-      want.
+      . Please try it out and let me know what you think 😊. I am not tracking you, I have no clue who comes and goes. None
+      of this is costing money and its free to explore. Feel free to click on whatever you want as much as you want.
     </p>
   </article>
 </Post>

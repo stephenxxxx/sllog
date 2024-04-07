@@ -3,8 +3,6 @@
   import { onMount } from 'svelte';
   import { giscusConfig } from '$config/site';
 
-  
-
   onMount(() => {
     if (!giscusConfig.enable) return;
 

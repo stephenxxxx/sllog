@@ -29,16 +29,15 @@
         rel="external">
         See You Next Wednesday
       </a>
-      . It was a name of a movie that had never been made. There was always talks but the movie had never actually
-      gotten made. Each time it was referenced it was a different movie altogether. I don&#39;t know why I felt the need
-      to research that poster, nor do I fully understand it, but the details led me to some pretty interesting caveats.
-      Stuff that I had no idea was actually quite interesting.
+      . It was a name of a movie that had never been made. There was always talks but the movie had never actually gotten
+      made. Each time it was referenced it was a different movie altogether. I don&#39;t know why I felt the need to research
+      that poster, nor do I fully understand it, but the details led me to some pretty interesting caveats. Stuff that I
+      had no idea was actually quite interesting.
     </p>
     <p>
       <ImgZoom
         src="/wednesday/c56f85af16a3b754b40caafa6d7dd1209ad8bf9ada39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd8070987f363c896762f9944d1b594550b3f39.png"
-        alt="Jarate A toxic jar of urine you throw at people from a video game Team Fortress 2"></ImgZoom
-      >
+        alt="Jarate A toxic jar of urine you throw at people from a video game Team Fortress 2"></ImgZoom>
       <br />
       Jarate was a jar of urine the sniper class had in the free to play flagship steam game, Team Fortress 2. You threw
       a jar of urine at people. Grown men, playing with kids.

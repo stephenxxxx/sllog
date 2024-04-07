@@ -14,7 +14,7 @@
     <h1 id="internet-freedom"><a href="#internet-freedom">Internet Freedom</a></h1>
     <p>
       <strong>Something we often</strong>
-       take for granted is our internet freedom. All around us are name brands that represent years of influence and struggle
+      take for granted is our internet freedom. All around us are name brands that represent years of influence and struggle
       even if the companies themselves do not. We have a choice to use these brands sometimes or we can make other decisions.
       Why do these choices feel so important even though we are constantly being told they don&#39;t? Brands represent a
       culmination of the past economy and the struggles they&#39;ve alleviated to attain their iconic logos. They very seldom

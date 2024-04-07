@@ -22,8 +22,8 @@ const qwerPkg = JSON.parse(jsonQWERPkg);
 const outputFolderPath = Object.keys(process.env).some((key) => key.includes('VERCEL'))
   ? '.vercel/output/static'
   : Object.keys(process.env).some((key) => key.includes('NETLIFY'))
-  ? 'build'
-  : 'static';
+    ? 'build'
+    : 'static';
 
 /** @type {import('vite').UserConfig} */
 const config = {

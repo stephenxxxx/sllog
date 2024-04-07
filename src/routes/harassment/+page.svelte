@@ -132,15 +132,15 @@
       they choose. Or they might simply just get whacked. Either way, words don&#39;t have that power. Words do <em>
         NOT
       </em>
-       have the energy themselves, to make you do things. Information does. Their situations caused their outcomes. They
-      cannot say someone who is writing comments is causing all kinds of chaos. It can coincide or be directly related, but
-      can&#39;t cause it. You are constantly being monitored one way or another and if there is someone in awe, there is
-      some other fool trying to say he is the cause of that awe. Or he will be trying to cause the awe himself and simply
-      laughing about it. This is always true. It comes from the freedom to realize things on your own in a segregated environment,
-      separated from the actions happening. This gives one self a modified sense of control over the situation because we
-      re imagine it differently. Instead, one can simply understand that they are simulating and that is completely unique
-      from the situation however comparable the simulation and reality may be. So in short, imagination is real but it only
-      goes one way.
+      have the energy themselves, to make you do things. Information does. Their situations caused their outcomes. They cannot
+      say someone who is writing comments is causing all kinds of chaos. It can coincide or be directly related, but can&#39;t
+      cause it. You are constantly being monitored one way or another and if there is someone in awe, there is some other
+      fool trying to say he is the cause of that awe. Or he will be trying to cause the awe himself and simply laughing about
+      it. This is always true. It comes from the freedom to realize things on your own in a segregated environment, separated
+      from the actions happening. This gives one self a modified sense of control over the situation because we re imagine
+      it differently. Instead, one can simply understand that they are simulating and that is completely unique from the
+      situation however comparable the simulation and reality may be. So in short, imagination is real but it only goes one
+      way.
     </p>
     <p>In the end? All this stuff? It&#39;s just a whirlwind of fists. As usual. Don&#39;t get sucked in.</p>
     <p><ImgZoom src="/harassment/u1fa84_u1f32a-ufe0f.png" alt="whirlwind"></ImgZoom></p>

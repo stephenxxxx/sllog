@@ -55,7 +55,7 @@
       shark. It&#39;s a fine program and has worked BEYOND expectations. I&#39;m pleased. I will be returning and
       recommending this program. I&#39;ve been using it to read news and watch YouTube and I can tell it is working
       perfectly I&#39;ve been so safe. I&#39;ve <em>really</em>
-       tested the limits of this thing as far as freedom goes. It&#39;s perfect. It really illustrates a point that at any
+      tested the limits of this thing as far as freedom goes. It&#39;s perfect. It really illustrates a point that at any
       time what you think is true, is just not so. Really just drives it home.
     </p>
     <p>

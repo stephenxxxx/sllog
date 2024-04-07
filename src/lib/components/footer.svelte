@@ -53,8 +53,42 @@
           style="display:inline-block;">
           CC BY-NC-SA 4.0
         </a>
-        <div class="link_externalIcon"><a href="https://status.stephenlittleton.com/" target="_blank">Stephen's Littleton's Status Page</a><svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" style="color:currentColor;width:1em;height:1em"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path><path d="M15 3h6v6"></path><path d="M10 14L21 3"></path></svg></div>
-        <div class="link_externalIcon"><a href="https://stephenlittleton.statuspage.io/" target="_blank">Stephen's System Status Service</a><svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" style="color:currentColor;width:1em;height:1em"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path><path d="M15 3h6v6"></path><path d="M10 14L21 3"></path></svg></div>
+        <div class="link_externalIcon">
+          <a href="https://status.stephenlittleton.com/" target="_blank">Stephen's Littleton's Status Page</a>
+          <svg
+            fill="none"
+            height="24"
+            shape-rendering="geometricPrecision"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="24"
+            style="color:currentColor;width:1em;height:1em">
+            <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+            <path d="M15 3h6v6"></path>
+            <path d="M10 14L21 3"></path>
+          </svg>
+        </div>
+        <div class="link_externalIcon">
+          <a href="https://stephenlittleton.statuspage.io/" target="_blank">Stephen's System Status Service</a>
+          <svg
+            fill="none"
+            height="24"
+            shape-rendering="geometricPrecision"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="24"
+            style="color:currentColor;width:1em;height:1em">
+            <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+            <path d="M15 3h6v6"></path>
+            <path d="M10 14L21 3"></path>
+          </svg>
+        </div>
       </main>
     </footer>
   {/key}
