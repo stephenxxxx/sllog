@@ -1,6 +1,6 @@
 # Stephen Littleton's Log - sllog
 
-[uptime](https://img.shields.io/badge/uptime-100%25-brightgreen
+![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen
 
 Welcome to my source code repository for my main website. That's correct, everything you see here needed to clone my site and become me. Why on God's green earth did I choose to open source my beloved and coveted website? Why not.  
 
