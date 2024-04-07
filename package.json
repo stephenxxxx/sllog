@@ -118,6 +118,7 @@
     "vite-imagetools": "^5.1.2"
   },
   "dependencies": {
-    "@fireworks-js/svelte": "^2.10.7"
+    "@fireworks-js/svelte": "^2.10.7",
+    "badge-maker": "^3.3.1"
   }
 }
