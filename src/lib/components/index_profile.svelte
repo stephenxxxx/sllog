@@ -33,6 +33,11 @@
   </p>
 
   <div class="flex">
+    {#if siteConfig.author.cashapp}
+      <a use:tippy href={siteConfig.author.cashapp} rel="author external" class="btn btn-ghost" aria-label="cashapp">
+        <div class="!w-[1.75rem] !h-[1.75rem] i-simple-icons-cashapp" style="color: #00D632" />
+      </a>
+    {/if}
     {#if siteConfig.author.email}
       <a
         use:tippy
