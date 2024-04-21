@@ -36,8 +36,7 @@
       <li>
         <p>
           🎧 🎚 🎛 <a href="https://musicvidz.stephenlittleton.com/" rel="external">MUSICVIDZ</a>
-          - Simple and plain youtube music video site. Naturally AD-FREE and NO-COOKIE YouTube videos. No special coding
-          is applied. Just used the code when you click the share button and you embed with privacy mode.
+          - TAKEN DOWN FOR SAFETY CONCERNS
         </p>
       </li>
       <li>
@@ -69,9 +68,7 @@
       <li>
         <p>
           ✍️ <a href="https://blog.stephenlittleton.com" rel="external">Blog</a>
-          - A blog website that uses the UNO theme by jekyll. It was a fun project and one of my first productions environment
-          challenges. Originally was the initial landing page but was moved to the blog subdomain in order to initialize
-          a new site.
+          - TAKEN DOWN FOR SAFETY CONCERNS
         </p>
       </li>
     </ul>

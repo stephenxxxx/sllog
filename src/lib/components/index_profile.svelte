@@ -65,7 +65,7 @@
         rel="author external"
         class="u-url u-uid btn btn-ghost"
         aria-label="Twitter">
-        <div class="!w-[1.75rem] !h-[1.75rem] i-carbon-logo-twitter" />
+        <div class="!w-[1.75rem] !h-[1.75rem] i-ri-twitter-x-line" />
       </a>
     {/if}
     {#if siteConfig.author.bluesky}
@@ -96,6 +96,11 @@
         class="u-url u-uid btn btn-ghost"
         aria-label="flickr">
         <div class="!w-[1.75rem] !h-[1.75rem] i-carbon-logo-flickr" />
+      </a>
+    {/if}
+    {#if siteConfig.author.vk}
+      <a use:tippy href={siteConfig.author.vk} rel="author external" class="u-url u-uid btn btn-ghost" aria-label="vk">
+        <div class="!w-[1.75rem] !h-[1.75rem] i-ri-vk-line" />
       </a>
     {/if}
   </div>
