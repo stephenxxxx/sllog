@@ -56,7 +56,7 @@
     "@changesets/cli": "^2.27.1",
     "@iconify-json/akar-icons": "^1.1.24",
     "@iconify-json/bxs": "^1.1.10",
-    "@iconify-json/carbon": "^1.1.31",
+    "@iconify-json/carbon": "^1.1.32",
     "@iconify-json/fluent-emoji-flat": "^1.1.16",
     "@iconify-json/ic": "^1.1.17",
     "@iconify-json/line-md": "^1.1.37",
@@ -119,7 +119,7 @@
   },
   "dependencies": {
     "@fireworks-js/svelte": "^2.10.7",
-    "@iconify/json": "^2.2.204",
+    "@iconify/json": "^2.2.205",
     "badge-maker": "^3.3.1"
   }
 }
