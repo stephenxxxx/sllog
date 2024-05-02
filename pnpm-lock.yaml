@@ -12,8 +12,8 @@ importers:
         specifier: ^2.10.7
         version: 2.10.7
       '@iconify/json':
-        specifier: ^2.2.205
-        version: 2.2.205
+        specifier: ^2.2.206
+        version: 2.2.206
       badge-maker:
         specifier: ^3.3.1
         version: 3.3.1
@@ -49,8 +49,8 @@ importers:
         specifier: ^1.1.20
         version: 1.1.20
       '@iconify-json/tabler':
-        specifier: ^1.1.110
-        version: 1.1.110
+        specifier: ^1.1.111
+        version: 1.1.111
       '@iconify-json/vscode-icons':
         specifier: ^1.1.33
         version: 1.1.33
@@ -1014,8 +1014,8 @@ packages:
       '@iconify/types': 2.0.0
     dev: true
 
-  /@iconify-json/tabler@1.1.110:
-    resolution: {integrity: sha512-+0TbyNeQpFI2r+bjtbazGrpGskI3c9NTii/6HhWTS+/d5+PiLs6+wWJW0M9AU2ykew7zdMKB2WtyczFyjYzZIQ==}
+  /@iconify-json/tabler@1.1.111:
+    resolution: {integrity: sha512-0qCmOCUUgcBXtvSUwaKMM4yum6XNrjPLxZBwueRPn14pAmWhS7Un15chxJ+ULfE1hBaVM7gSPIYz4JAUOo28Aw==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true
@@ -1026,8 +1026,8 @@ packages:
       '@iconify/types': 2.0.0
     dev: true
 
-  /@iconify/json@2.2.205:
-    resolution: {integrity: sha512-79DbcI0U40w6jCYADjhSheJ6SVB/FJG/z0ltnqdHF/uRi6/MLroqe7y9Qy+99Ebb6F2WZgVV+TXfFMMORMPXFw==}
+  /@iconify/json@2.2.206:
+    resolution: {integrity: sha512-Vbi8BTvbEKZtCQDJDqMRDZenU8HYMHFtMkEx92pvyQN/Il5OfGwCNaR+bf9Sv2TkotnoiyqqickeWpdo0hllGQ==}
     dependencies:
       '@iconify/types': 2.0.0
       pathe: 1.1.2

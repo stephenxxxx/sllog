@@ -62,7 +62,7 @@
     "@iconify-json/line-md": "^1.1.37",
     "@iconify-json/mdi": "^1.1.66",
     "@iconify-json/ri": "^1.1.20",
-    "@iconify-json/tabler": "^1.1.110",
+    "@iconify-json/tabler": "^1.1.111",
     "@iconify-json/vscode-icons": "^1.1.33",
     "@kwchang0831/qwer": "link:QWER",
     "@kwchang0831/svelte-qwer": "link:",
@@ -119,7 +119,7 @@
   },
   "dependencies": {
     "@fireworks-js/svelte": "^2.10.7",
-    "@iconify/json": "^2.2.205",
+    "@iconify/json": "^2.2.206",
     "badge-maker": "^3.3.1"
   }
 }
