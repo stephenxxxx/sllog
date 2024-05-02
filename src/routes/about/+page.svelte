@@ -36,7 +36,8 @@
       <li>
         <p>
           🎧 🎚 🎛 <a href="https://musicvidz.stephenlittleton.com/" rel="external">MUSICVIDZ</a>
-          - TAKEN DOWN FOR SAFETY CONCERNS
+          - Ad-Free Utilizes Natural Ad Free, no tracking, no cookie viewing. HTML Shims for older browsers, international
+          support with google fonts and html 5, css 3. Jekyll and Markdown Support.
         </p>
       </li>
       <li>
@@ -68,7 +69,7 @@
       <li>
         <p>
           ✍️ <a href="https://blog.stephenlittleton.com" rel="external">Blog</a>
-          - TAKEN DOWN FOR SAFETY CONCERNS
+          - Jekyll Blog featuring some interesting blurbs regarding some situations that happen. Utilizes DISQUS for comments.
         </p>
       </li>
     </ul>

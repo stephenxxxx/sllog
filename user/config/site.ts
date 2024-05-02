@@ -34,7 +34,7 @@ export const siteConfig: Site.Config = {
     website: 'https://stephenlittleton.com',
     github: 'https://github.com/stephenxxxx',
     // bluesky: 'https://bsky.app/profile/fediverse.stephenlittleton.com',
-    facebook: 'https://www.facebook.com/whatdoyouwantonyourtombstone',
+    //facebook: 'https://www.facebook.com/whatdoyouwantonyourtombstone',
     twitter: 'https://x.com/djreefa',
     flickr: 'https://flickr.com/stephenlittleton/',
     vk: 'https://vk.com/stephenxx',

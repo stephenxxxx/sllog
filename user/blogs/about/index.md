@@ -21,7 +21,7 @@ Welcome to my log and postings. You can find information here, I have a develope
 
 - 🎬 🎚 🎛 [NEXFLIX](https://nexflix.stephenlittleton.com/intro.html) - A Fun Movie Review Website Written in HTML5 and CSS3 with JEKYLL as a development scaffold. Utilizes DISQUS for leaving comments and chatting. 
 
-- 🎧 🎚 🎛 [MUSICVIDZ](https://musicvidz.stephenlittleton.com/) - TAKEN DOWN FOR SAFETY CONCERNS
+- 🎧 🎚 🎛 [MUSICVIDZ](https://musicvidz.stephenlittleton.com/) - Ad-Free Utilizes Natural Ad Free, no tracking, no cookie viewing. HTML Shims for older browsers, international support with google fonts and html 5, css 3. Jekyll and Markdown Support.
 
 - 🧪 [NEOCITIES](https://stephen730.neocities.org) - A Neocities page, throwback to the old windows style. Jekyll based backend uploaded using WEBDAV. 
 
@@ -31,7 +31,7 @@ Welcome to my log and postings. You can find information here, I have a develope
 
 -  This site / Site utilizes vercel and svelte/qwer theme by kwchang0831. My first svelte project. Currently using netlify for hosting. Vite pushes what I need to the CDN and deployment is fun. Site is very responsive for such a heavy load. Consistent load times.
 
-- ✍️ [Blog](https://blog.stephenlittleton.com) - TAKEN DOWN FOR SAFETY CONCERNS
+- ✍️ [Blog](https://blog.stephenlittleton.com) - Jekyll Blog featuring some interesting blurbs regarding some situations that happen. Utilizes DISQUS for comments.
 
 ## ❓ Issues / Problems / Questions
 
