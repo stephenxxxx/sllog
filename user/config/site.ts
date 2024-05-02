@@ -33,7 +33,7 @@ export const siteConfig: Site.Config = {
     avatar_512_png: Avatar_512_PNG,
     website: 'https://stephenlittleton.com',
     github: 'https://github.com/stephenxxxx',
-    // bluesky: 'https://bsky.app/profile/fediverse.stephenlittleton.com',
+    bluesky: 'https://bsky.app/profile/sky.stephenlittleton.com',
     //facebook: 'https://www.facebook.com/whatdoyouwantonyourtombstone',
     twitter: 'https://x.com/djreefa',
     flickr: 'https://flickr.com/stephenlittleton/',
