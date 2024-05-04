@@ -105,7 +105,7 @@
     "sass": "^1.76.0",
     "sharp": "^0.32.6",
     "svelte": "^4.2.15",
-    "svelte-check": "^3.7.0",
+    "svelte-check": "^3.7.1",
     "svelte-confetti": "^1.4.0",
     "svelte-preprocess": "^5.1.4",
     "tippy.js": "^6.3.7",
