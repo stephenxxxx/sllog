@@ -31,6 +31,9 @@
   <p class="p-note text-base font-bold op75 bg-gradient-to-tr from-zinc-300 to-zinc-700 bg-clip-text text-transparent">
     {@html siteConfig.author.bio}
   </p>
+  <p>
+    {@html siteConfig.author.bio2}
+  </p>
 
   <div class="flex">
     {#if siteConfig.author.cashapp}
@@ -101,6 +104,16 @@
         class="u-url u-uid btn btn-ghost"
         aria-label="flickr">
         <div class="!w-[1.75rem] !h-[1.75rem] i-carbon-logo-flickr" />
+      </a>
+    {/if}
+    {#if siteConfig.author.steam}
+      <a
+        use:tippy
+        href={siteConfig.author.steam}
+        rel="author external"
+        class="u-url u-uid btn btn-ghost"
+        aria-label="steam">
+        <div class="!w-[1.75rem] !h-[1.75rem] i-ri-steam-fill" />
       </a>
     {/if}
   </div>

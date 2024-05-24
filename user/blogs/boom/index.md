@@ -9,6 +9,8 @@ coverCaption: Darth Vader using his Light Saber Weapon against a cigarette.
 coverStyle: 'TOP'
 tags:
   - ['BOOM', SLLOG]
+options:
+  - unlisted
 ---
 <script lang="ts">
   import Youtube from '$lib/components/youtube.svelte'

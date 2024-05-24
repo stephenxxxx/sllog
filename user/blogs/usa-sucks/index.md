@@ -9,6 +9,8 @@ coverCaption: USA FLAG UPSIDE DOWN AND BACKWARDZ
 coverStyle: 'TOP'
 tags:
   - ['Enemies', SLLOG]
+options:
+  - unlisted
 ---
 <script lang="ts">
   import Youtube from '$lib/components/youtube.svelte'
