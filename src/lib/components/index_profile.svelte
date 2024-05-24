@@ -106,6 +106,11 @@
         <div class="!w-[1.75rem] !h-[1.75rem] i-carbon-logo-flickr" />
       </a>
     {/if}
+    {#if siteConfig.author.mastodon}
+      <a use:tippy href={siteConfig.author.mastodon} rel="me" class="u-url u-uid btn btn-ghost" aria-label="mastodon">
+        <div class="!w-[1.75rem] !h-[1.75rem] i-ri-mastodon-fill" />
+      </a>
+    {/if}
     {#if siteConfig.author.steam}
       <a
         use:tippy

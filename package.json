@@ -53,16 +53,16 @@
   },
   "devDependencies": {
     "@builder.io/partytown": "^0.8.2",
-    "@changesets/cli": "^2.27.1",
+    "@changesets/cli": "^2.27.3",
     "@iconify-json/akar-icons": "^1.1.24",
     "@iconify-json/bxs": "^1.1.10",
-    "@iconify-json/carbon": "^1.1.33",
+    "@iconify-json/carbon": "^1.1.34",
     "@iconify-json/fluent-emoji-flat": "^1.1.16",
     "@iconify-json/ic": "^1.1.17",
     "@iconify-json/line-md": "^1.1.37",
     "@iconify-json/mdi": "^1.1.66",
     "@iconify-json/ri": "^1.1.20",
-    "@iconify-json/tabler": "^1.1.111",
+    "@iconify-json/tabler": "^1.1.113",
     "@iconify-json/vscode-icons": "^1.1.34",
     "@kwchang0831/qwer": "link:QWER",
     "@kwchang0831/svelte-qwer": "link:",
@@ -102,7 +102,7 @@
     "prettier": "^3.2.5",
     "prettier-plugin-svelte": "^3.2.3",
     "rimraf": "^5.0.7",
-    "sass": "^1.77.1",
+    "sass": "^1.77.2",
     "sharp": "^0.32.6",
     "svelte": "^4.2.17",
     "svelte-check": "^3.7.1",
@@ -119,7 +119,7 @@
   },
   "dependencies": {
     "@fireworks-js/svelte": "^2.10.7",
-    "@iconify/json": "^2.2.210",
+    "@iconify/json": "^2.2.213",
     "badge-maker": "^3.3.1"
   }
 }
