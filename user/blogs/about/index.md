@@ -23,15 +23,9 @@ Welcome to my log and postings. You can find information here, I have a develope
 
 - 🎧 🎚 🎛 [MUSICVIDZ](https://musicvidz.stephenlittleton.com/) - Ad-Free Utilizes Natural Ad Free, no tracking, no cookie viewing. HTML Shims for older browsers, international support with google fonts and html 5, css 3. Jekyll and Markdown Support.
 
-- 🧪 [NEOCITIES](https://stephen730.neocities.org) - A Neocities page, throwback to the old windows style. Jekyll based backend uploaded using WEBDAV. 
-
 - 🧮 [STEPHEN'S DEV PAGE](https://dev.stephenlittleton.com) - Open source listing, work history, skills, general showcase of ability and developer information. Donate links included to PayPal and cashapp for easy payment options.
 
 - 📱 [Gallery](https://gallery.stephenlittleton.com) - My music album, artwork, some fun HTML renderings and more located here.
-
--  This site / Site utilizes vercel and svelte/qwer theme by kwchang0831. My first svelte project. Currently using netlify for hosting. Vite pushes what I need to the CDN and deployment is fun. Site is very responsive for such a heavy load. Consistent load times.
-
-- ✍️ [Blog](https://blog.stephenlittleton.com) - Jekyll Blog featuring some interesting blurbs regarding some situations that happen. Utilizes DISQUS for comments.
 
 ## ❓ Issues / Problems / Questions
 
@@ -42,10 +36,6 @@ I'm in the process of implementing some sort of crazy message board using discou
 [MIT](https://github.com/stephenxxxx/sllog/blob/main/LICENSE)
 [CC0-1.0 license ](https://github.com/stephenlittleton/sllog/blob/main/LICENSE)
 
-## 🙏 Credits and Thanks
-
-- Tons of credits and thanks go out to the developers who are just doing this for fun. We are out there and we just enjoy doing this stuff, we are just loving the technology. Thanks to FIREBASE for providing hosting, thanks to google domains, squarespace, thanks to vercel, svelte, jekyll, kwchang0831, other developers that are out there getting paid and taking the heat. Thanks to the entertainment industry for providing content. 
-
 ## 👍 END
 
-Thanks so much for interesting in [me](https://flickr.com/stephen730). Please try it out and let me know what you think 😊. I am not tracking you, I have no clue who comes and goes. None of this is costing money and its free to explore. Feel free to click on whatever you want as much as you want.
+Thanks so much for your interest in [me](https://flickr.com/stephen730). Please try out my site and let me know what you think 😊. I am not tracking you, I have no clue who comes and goes. None of this is costing money and its free to explore. Feel free to click on whatever you want as much as you want.

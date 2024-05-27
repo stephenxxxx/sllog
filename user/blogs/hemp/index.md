@@ -9,6 +9,8 @@ coverCaption: Hemp
 coverStyle: 'TOP'
 tags:
   - ['Hemp', SLLOG]
+options:
+  - unlisted
 ---
 <script lang="ts">
   import Youtube from '$lib/components/youtube.svelte'
