@@ -38,7 +38,7 @@ export const siteConfig: Site.Config = {
     // twitter: 'https://x.com/djreefa',
     // flickr: 'https://flickr.com/stephenlittleton/',
     // vk: 'https://vk.com/stephenxx',
-    mastodon: 'https://mastodon.social/@stephenlittleton',
+    // mastodon: 'https://mastodon.social/@stephenlittleton',
     steam: 'https://steamcommunity.com/id/OGCadillacMack',
     email: 'stephen@stephenlittleton.com',
     cashapp: 'https://cash.app/$stephen730',
