@@ -37,7 +37,7 @@ export const siteConfig: Site.Config = {
     // facebook: 'https://www.facebook.com/whatdoyouwantonyourtombstone',
     // twitter: 'https://x.com/djreefa',
     // flickr: 'https://flickr.com/stephenlittleton/',
-    // vk: 'https://vk.com/stephenxx',
+    vk: 'https://vk.com/stephenxx',
     // mastodon: 'https://mastodon.social/@stephenlittleton',
     steam: 'https://steamcommunity.com/id/OGCadillacMack',
     email: 'stephen@stephenlittleton.com',
