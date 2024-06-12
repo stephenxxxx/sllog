@@ -34,14 +34,14 @@ export const siteConfig: Site.Config = {
     website: 'https://stephenlittleton.com',
     email: 'stephen@stephenlittleton.com',
     cashapp: 'https://cash.app/$stephen730',
-    github: 'https://github.com/stephenxxxx',
+    github: 'https://github.com/djreefa',
     // bluesky: 'https://bsky.app/profile/sky.stephenlittleton.com',
-    // facebook: 'https://www.facebook.com/whatdoyouwantonyourtombstone',
-    // twitter: 'https://x.com/djreefa',
+    facebook: 'https://www.facebook.com/buttheadandbeavis',
+    twitter: 'https://x.com/djreefa',
     // flickr: 'https://flickr.com/stephenlittleton/',
     // mastodon: 'https://mastodon.social/@stephenlittleton',
     steam: 'https://steamcommunity.com/id/OGCadillacMack',
-    vk: 'https://vk.com/stephenxx',
+    vk: 'https://vk.com/djreefa',
 
     bio: 'Repair Technician, Sales Consultant, Web Developer<br><br><a href="sms:7063159678?&body=Hi. Texting you from your website! This is ">+1(706)315-9678</a><br><br>',
     bio2: '<center> <form action="https://www.paypal.com/donate" method="post" target="_top"><input type="hidden" name="business" value="KF5AT3FRZQVDN" /><input type="hidden" name="no_recurring" value="0" /><input type="hidden" name="item_name" value="Your donation goes towards the furthering of my research which remains open and freely accessible in its original, fun, form." /><input type="hidden" name="currency_code" value="USD" /><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" /><img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" /></form></center>',
@@ -50,7 +50,7 @@ export const siteConfig: Site.Config = {
 
 export const headConfig: Site.Head = {
   // Used for IndieWeb
-  me: ['https://github.com/stephenxxxx'],
+  me: ['https://github.com/djreefa'],
   custom: ({ dev }) =>
     dev
       ? [
@@ -89,7 +89,7 @@ export const dateConfig: Site.DateConfig = {
 export const giscusConfig: Giscus.Config = {
   enable: true,
   id: 'giscus-comment',
-  repo: 'stephenxxxx/sllog',
+  repo: 'djreefa/sllog',
   repoId: 'R_kgDOK0FGtg',
   category: 'General',
   theme: 'transparent_dark',

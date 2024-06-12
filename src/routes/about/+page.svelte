@@ -7,60 +7,34 @@
   import Video from '$lib/components/video.svelte';
   import CodeCopy from '$lib/components/code_copy.svelte';
   import InfoBox from '$lib/components/info_box.svelte';
-
-  import Confetti from 'svelte-confetti';
 </script>
 
 <Post>
   <article slot="post_content">
-    <Confetti infinite />
-
-    <h2 id="stephen-and-39-s-log-initial-setup">
-      <a href="#stephen-and-39-s-log-initial-setup">🎉 Stephen&#39;s Log - Initial Setup</a>
-    </h2>
+    <h2 id="stephen-and-39-s-log"><a href="#stephen-and-39-s-log">Stephen&#39;s Log</a></h2>
     <p>
-      Welcome to my log and postings. You can find information here, I have a developer profile and much more. Links to
-      other works I&#39;ve done and contact information.
+      Taking this thing down. The project has lost steam and I don&#39;t want to go down with a ship that isn&#39;t even
+      mine. The project was meant to include everyone into a fun online adventure through learning and experiencing new
+      things that are different, or unusual from the day to day activities we all experience. Unfortunately, there are
+      those who believe the unusual is a way of life. They cannot distinguish the difference between reality and
+      fantasy. As usual, I am left in the dark to fend for myself while getting laughed at for respecting the laws.
+      That&#39;s what is considered a society in this supposed country. Well, as it stands there is no core and its all
+      failing and falling apart. The ones who are doing the laughing are shortly lived and are almost all dead at this
+      point. A welcome ending to a terrible story. I was punished for attempting to do this project and never rewarded
+      except when people appreciated or what not. That&#39;s why I did it, and it&#39;s over now so that&#39;s the end.
+      Unfortunately, due to the <em>PROVEN</em>
+      human nature around here, I can&#39;t leave it up and just go about my business they have been using everything and
+      anything to catch me off guard. My freedoms are being disrespected and I&#39;ve proven it time and time again actual
+      proof and they just say I&#39;m discussing things. There is no such thing as a country or whatever guarantees they
+      offer. They are all lies as much as you can see the rest of this crap is. At one point? maybe... but they failed to
+      offer the proper respect the situation deserves. Everyone just completed what they felt was the right version of what
+      to do. Make no mistake, you are all in deep peril and there is nothing your civic leaders can nor will do about it.
     </p>
-    <h2 id="some-of-the-works-i-and-39-ve-done">
-      <a href="#some-of-the-works-i-and-39-ve-done">⚡ Some of the Works I&#39;ve Done</a>
-    </h2>
-    <ul>
-      <li>
-        <p>
-          🎬 🎚 🎛 <a href="https://nexflix.stephenlittleton.com/intro.html" rel="external">NEXFLIX</a>
-          - A Fun Movie Review Website Written in HTML5 and CSS3 with JEKYLL as a development scaffold. Utilizes DISQUS for
-          leaving comments and chatting.
-        </p>
-      </li>
-      <li>
-        <p>
-          🎧 🎚 🎛 <a href="https://musicvidz.stephenlittleton.com/" rel="external">MUSICVIDZ</a>
-          - Ad-Free Utilizes Natural Ad Free, no tracking, no cookie viewing. HTML Shims for older browsers, international
-          support with google fonts and html 5, css 3. Jekyll and Markdown Support.
-        </p>
-      </li>
-      <li>
-        <p>
-          🧮 <a href="https://dev.stephenlittleton.com" rel="external">STEPHEN&#39;S DEV PAGE</a>
-          - Open source listing, work history, skills, general showcase of ability and developer information. Donate links
-          included to PayPal and cashapp for easy payment options.
-        </p>
-      </li>
-      <li>
-        <p>
-          📱 <a href="https://gallery.stephenlittleton.com" rel="external">Gallery</a>
-          - My music album, artwork, some fun HTML renderings and more located here.
-        </p>
-      </li>
-    </ul>
-    <h2 id="issues-problems-questions"><a href="#issues-problems-questions">❓ Issues / Problems / Questions</a></h2>
     <p>
-      I&#39;m in the process of implementing some sort of crazy message board using discourse but its on the list. <a
-        href="mailto:stephen@stephenlittleton.com">
-        Just email me
-      </a>
-      .
+      I have work to do and I fail to find the benefit in any of this branded stuff they have you learn just so they can
+      rugpull you and hire someone else who is less talented and then change the entire system rednering it virtually
+      obsolete just about the time you become perfected in it. These companies are just such failures run from and by
+      prison systems.
     </p>
     <h2 id="license"><a href="#license">📝 License</a></h2>
     <p>
@@ -69,9 +43,8 @@
     </p>
     <h2 id="end"><a href="#end">👍 END</a></h2>
     <p>
-      Thanks so much for your interest in <a href="https://flickr.com/stephen730" rel="external">me</a>
-      . Please try out my site and let me know what you think 😊. I am not tracking you, I have no clue who comes and goes.
-      None of this is costing money and its free to explore. Feel free to click on whatever you want as much as you want.
+      <a href="https://flickr.com/stephen730" rel="external">me</a>
+      .
     </p>
   </article>
 </Post>
