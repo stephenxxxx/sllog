@@ -22,9 +22,9 @@ export const siteConfig: Site.Config = {
   cover: SiteCover,
   author: {
     name: 'Stephen Littleton',
-    status: '🤍',
+    status: '🪙',
     statusTip:
-      '<a href="https://dev.stephenlittleton.com" rel="external" style="color:#0F0" onMouseOver="this.style.color=\'#0FF\'" onMouseOut="this.style.color=\'#0F0\'" >Stephens Dev Page</a> still lives !',
+      'Donations are greatly appreciated at this time.',
     avatar: Avatar,
     avatar_128: Avatar_128,
     avatar_48_png: Avatar_48_PNG,
@@ -38,10 +38,10 @@ export const siteConfig: Site.Config = {
     // bluesky: 'https://bsky.app/profile/sky.stephenlittleton.com',
     facebook: 'https://www.facebook.com/buttheadandbeavis',
     twitter: 'https://x.com/djreefa',
-    // flickr: 'https://flickr.com/stephenlittleton/',
+    flickr: 'https://flickr.com/stephen730/',
     // mastodon: 'https://mastodon.social/@stephenlittleton',
     steam: 'https://steamcommunity.com/id/OGCadillacMack',
-    vk: 'https://vk.com/djreefa',
+    // vk: 'https://vk.com/djreefa',
 
     bio: 'Repair Technician, Sales Consultant, Web Developer<br><br><a href="sms:7063159678?&body=Hi. Texting you from your website! This is ">+1(706)315-9678</a><br><br>',
     bio2: '<center> <form action="https://www.paypal.com/donate" method="post" target="_top"><input type="hidden" name="business" value="KF5AT3FRZQVDN" /><input type="hidden" name="no_recurring" value="0" /><input type="hidden" name="item_name" value="Your donation goes towards the furthering of my research which remains open and freely accessible in its original, fun, form." /><input type="hidden" name="currency_code" value="USD" /><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" /><img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" /></form></center>',

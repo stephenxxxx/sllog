@@ -25,8 +25,8 @@
     <h2 id="paragraphs"><a href="#paragraphs">Paragraphs</a></h2>
     <p>
       <strong>Lorem Ipsum</strong>
-      dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. This
-      is the content:
+      dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      This is the content:
       <strong><em>The</em></strong>
       <em>quick</em>
       <u>brown</u>

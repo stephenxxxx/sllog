@@ -23,7 +23,7 @@
       point. A welcome ending to a terrible story. I was punished for attempting to do this project and never rewarded
       except when people appreciated or what not. That&#39;s why I did it, and it&#39;s over now so that&#39;s the end.
       Unfortunately, due to the <em>PROVEN</em>
-      human nature around here, I can&#39;t leave it up and just go about my business they have been using everything and
+       human nature around here, I can&#39;t leave it up and just go about my business they have been using everything and
       anything to catch me off guard. My freedoms are being disrespected and I&#39;ve proven it time and time again actual
       proof and they just say I&#39;m discussing things. There is no such thing as a country or whatever guarantees they
       offer. They are all lies as much as you can see the rest of this crap is. At one point? maybe... but they failed to

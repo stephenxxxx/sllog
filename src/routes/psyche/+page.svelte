@@ -19,10 +19,10 @@
       🛰️ <strong>Psyche is</strong>
       a
       <a href="https://nasa.gov/" rel="external">NASA</a>
-      space mission launched on October 13, 2023 to explore the origin of planetary cores by orbiting and studying the metallic
-      asteroid 16 Psyche beginning in 2029. NASA&#39;s
+      space mission launched on October 13, 2023 to explore the origin of planetary cores by orbiting and studying the
+      metallic asteroid 16 Psyche beginning in 2029. NASA&#39;s
       <a href="https://www.jpl.nasa.gov/" rel="external">Jet Propulsion Laboratory</a>
-      manages the project.
+       manages the project.
     </p>
     <p>
       16 Psyche is the heaviest known M-type asteroid, and may be an exposed iron core of a protoplanet, the remnant of
@@ -32,7 +32,7 @@
         rel="external">
         SpaceX Falcon Heavy
       </a>
-      rocket.
+       rocket.
     </p>
     <p>
       The Psyche spacecraft is traveling to a unique metal-rich asteroid with the same name, orbiting the Sun between
@@ -42,7 +42,7 @@
     <h2 id="history"><a href="#history">📰 History</a></h2>
     <p>
       🛰️ <strong>Psyche was</strong>
-      submitted by Lindy Elkins-Tanton, a principal investigator at Arizona State University, as part of a call for proposals
+       submitted by Lindy Elkins-Tanton, a principal investigator at Arizona State University, as part of a call for proposals
       for NASA&#39;s Discovery Program that closed in February 2015. It was shortlisted on September 30, 2015, as one of
       five finalists and awarded US$3 million for further concept development.
     </p>
@@ -73,7 +73,7 @@
     <h2 id="target"><a href="#target">🔭 Target</a></h2>
     <p>
       🛰️ <strong>Psyche is</strong>
-      the heaviest known M-type asteroid, and may be an exposed iron core of a protoplanet, the remnant of a violent collision
+       the heaviest known M-type asteroid, and may be an exposed iron core of a protoplanet, the remnant of a violent collision
       with another object that stripped off its mantle and crust.
     </p>
     <p>
@@ -86,7 +86,7 @@
     <h1 id="mission-overview"><a href="#mission-overview">📑 Mission overview</a></h1>
     <p>
       <strong>The Psyche spacecraft</strong>
-      is designed with solar electric propulsion, and the scientific payload includes a multispectral imager, a magnetometer,
+       is designed with solar electric propulsion, and the scientific payload includes a multispectral imager, a magnetometer,
       and a gamma-ray spectrometer.
     </p>
     <p>
