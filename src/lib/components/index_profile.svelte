@@ -58,7 +58,7 @@
         rel="author external"
         class="u-url u-uid btn btn-ghost"
         aria-label="Github">
-        <div class="!w-[1.75rem] !h-[1.75rem] i-carbon-logo-github" />
+        <div class="!w-[1.75rem] !h-[1.75rem] i-line-md-github-loop" />
       </a>
     {/if}
     {#if siteConfig.author.twitter}
@@ -68,7 +68,7 @@
         rel="author external"
         class="u-url u-uid btn btn-ghost"
         aria-label="Twitter">
-        <div class="!w-[1.75rem] !h-[1.75rem] i-ri-twitter-x-line" />
+        <div class="!w-[1.75rem] !h-[1.75rem] i-line-md-twitter-x" />
       </a>
     {/if}
     {#if siteConfig.author.bluesky}
@@ -88,7 +88,7 @@
         rel="author external"
         class="u-url u-uid btn btn-ghost"
         aria-label="facebook">
-        <div class="!w-[1.75rem] !h-[1.75rem] i-carbon-logo-facebook" />
+        <div class="!w-[1.75rem] !h-[1.75rem] i-line-md-facebook" />
       </a>
     {/if}
     {#if siteConfig.author.flickr}

@@ -12,38 +12,18 @@
 <Post>
   <article slot="post_content">
     <h2 id="stephen-and-39-s-log"><a href="#stephen-and-39-s-log">Stephen&#39;s Log</a></h2>
-    <p>
-      Taking this thing down. The project has lost steam and I don&#39;t want to go down with a ship that isn&#39;t even
-      mine. The project was meant to include everyone into a fun online adventure through learning and experiencing new
-      things that are different, or unusual from the day to day activities we all experience. Unfortunately, there are
-      those who believe the unusual is a way of life. They cannot distinguish the difference between reality and
-      fantasy. As usual, I am left in the dark to fend for myself while getting laughed at for respecting the laws.
-      That&#39;s what is considered a society in this supposed country. Well, as it stands there is no core and its all
-      failing and falling apart. The ones who are doing the laughing are shortly lived and are almost all dead at this
-      point. A welcome ending to a terrible story. I was punished for attempting to do this project and never rewarded
-      except when people appreciated or what not. That&#39;s why I did it, and it&#39;s over now so that&#39;s the end.
-      Unfortunately, due to the <em>PROVEN</em>
-       human nature around here, I can&#39;t leave it up and just go about my business they have been using everything and
-      anything to catch me off guard. My freedoms are being disrespected and I&#39;ve proven it time and time again actual
-      proof and they just say I&#39;m discussing things. There is no such thing as a country or whatever guarantees they
-      offer. They are all lies as much as you can see the rest of this crap is. At one point? maybe... but they failed to
-      offer the proper respect the situation deserves. Everyone just completed what they felt was the right version of what
-      to do. Make no mistake, you are all in deep peril and there is nothing your civic leaders can nor will do about it.
-    </p>
-    <p>
-      I have work to do and I fail to find the benefit in any of this branded stuff they have you learn just so they can
-      rugpull you and hire someone else who is less talented and then change the entire system rednering it virtually
-      obsolete just about the time you become perfected in it. These companies are just such failures run from and by
-      prison systems.
-    </p>
+    <p>We are having some updates</p>
     <h2 id="license"><a href="#license">📝 License</a></h2>
     <p>
-      <a href="https://github.com/stephenxxxx/sllog/blob/main/LICENSE" rel="external">MIT</a>
-      <a href="https://github.com/stephenlittleton/sllog/blob/main/LICENSE" rel="external">CC0-1.0 license</a>
+      <a href="https://github.com/djreefa/sllog/blob/main/LICENSE" rel="external">MIT</a>
+      <a href="https://github.com/djreefa/sllog/blob/main/LICENSE" rel="external">CC0-1.0 license</a>
     </p>
     <h2 id="end"><a href="#end">👍 END</a></h2>
     <p>
       <a href="https://flickr.com/stephen730" rel="external">me</a>
+      .
+      <br />
+      <a href="https://flickr.com/stephenlittleton" rel="external">more of me</a>
       .
     </p>
   </article>
