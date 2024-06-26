@@ -38,7 +38,7 @@ export const siteConfig: Site.Config = {
     // bluesky: 'https://bsky.app/profile/sky.stephenlittleton.com',
     facebook: 'https://www.facebook.com/buttheadandbeavis',
     twitter: 'https://x.com/djreefa',
-    flickr: 'https://flickr.com/stephen730/',
+    // flickr: 'https://flickr.com/stephen730/',
     // mastodon: 'https://mastodon.social/@stephenlittleton',
     steam: 'https://steamcommunity.com/id/OGCadillacMack',
     // vk: 'https://vk.com/djreefa',

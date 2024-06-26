@@ -7,6 +7,8 @@ updated: '2024-03-21T06:00:00.000-05:00'
 cover: ./zaapkHO.jpg
 coverCaption: Tactical Loadout
 coverStyle: 'TOP'
+options:
+  - unlisted
 tags:
   - ['Crime Ring', 'Discovery', SLLOG]
 ---
