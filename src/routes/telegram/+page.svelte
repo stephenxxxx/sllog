@@ -15,6 +15,10 @@
   <article slot="post_content">
     <h1 id="telegram-messenger"><a href="#telegram-messenger">Telegram Messenger</a></h1>
     <p>
+      AT THE TIME OF THIS WRITING I ONLY HAVE TELEGRAM INSTALLED ON A SECRET FRIENDS ONLY LINE. MY MAIN NUMBER IS
+      DISABLED FOR TELEGRAM.
+    </p>
+    <p>
       I&#39;ve decided to give telegram messenger a try. I&#39;ve been reading the way it works compared to the rest and
       there is really no other choice for encrypted messaging. Signal is nice, they are all nice, however they do not
       meet the privacy standards. Telegram does. Or at least it seems to, what can one be truly certain of?
@@ -55,7 +59,7 @@
       shark. It&#39;s a fine program and has worked BEYOND expectations. I&#39;m pleased. I will be returning and
       recommending this program. I&#39;ve been using it to read news and watch YouTube and I can tell it is working
       perfectly I&#39;ve been so safe. I&#39;ve <em>really</em>
-      tested the limits of this thing as far as freedom goes. It&#39;s perfect. It really illustrates a point that at any
+       tested the limits of this thing as far as freedom goes. It&#39;s perfect. It really illustrates a point that at any
       time what you think is true, is just not so. Really just drives it home.
     </p>
     <p>

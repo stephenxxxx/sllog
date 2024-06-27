@@ -28,7 +28,7 @@
       related to me not just a coincidence and upon further examination, it most certainly is a hoax. I do not own a
       Facebook page, the one that is up there is an annoyance, its crude and disgusting, its computer generated, and its
       sick. They call it A.I. but there is nothing <em>intelligent</em>
-      about this.
+       about this.
     </p>
     <p>
       If you scroll down past all the atrocious stuff you can see the original mk.1 release of the ai software designed
@@ -91,12 +91,11 @@
       they&#39;ve always been there when I need them. So much so I am able to fly on my own now.
     </p>
     <h2 id="bluesky"><a href="#bluesky">BLUESKY</a></h2>
+    <p>LINKS REMOVED BECAUSE OF CHANGES</p>
     <p>
       Okay okay okay, bluesky. It&#39;s decentralized, peer-to-peer communications. I&#39;ve got my domain linked into
-      it, you can find me <a href="https://bsky.app/profile/fediverse.stephenlittleton.com" rel="external">
-        @fediverse.stephenlittleton.com
-      </a>
-      there. I&#39;m focused upon things that are going to be positive. The rest of it can get lost.
+      it, you can find me LINK REMOVED there. I&#39;m focused upon things that are going to be positive. The rest of it
+      can get lost.
     </p>
     <p>
       So far bluesky is pretty cool, it is just like twitter but with some obvious improvements. You can&#39;t pull the
@@ -107,29 +106,7 @@
       experience and it&#39;s free and edge. So one can understand why I&#39;m so.. elated.
     </p>
     <h3 id="links"><a href="#links">Links</a></h3>
-    <p>
-      <a href="https://bsky.app/profile/fediverse.stephenlittleton.com" rel="external">
-        My Bluesky Social Network Link
-      </a>
-      is here,
-      <a href="https://bsky.app" rel="external">bsky.app</a>
-      , in case you want to check it out. Notice the .app extension that is so popular among projects these days. You can
-      also access it at
-      <a href="https://blueskyweb.org" rel="external">BlueSkyWeb.org</a>
-      .
-    </p>
-    <p>
-      I&#39;m not too sure about the mobile app as I have not attempted it. I am just now figuring out the AT protocol.
-      I&#39;m a big fan of XMPP protocol, the old jabber, mIRC and whatnot.
-    </p>
-    <p>
-      Be sure to check out the <a href="https://stephenlittleton.com/about/" rel="external">ABOUT</a>
-      page here for more of my work, my music vids site is there, my directory, nexflix, and more is there. It&#39;s at the
-      top of the page under the drop down on mobile and some versions of pc, or directly located at the top to the right
-      of the LOGBOOK logo. That&#39;s where I will store most pertinent information on how to contact me or what is the main
-      purpose or intentions of the site.
-    </p>
-    <p>Til&#39; next time.</p>
+    <p>LINKS HAVE BEEN REMOVED BECAUSE OF CHANGES</p>
     <Youtube id="srSL_mViLb0" />
   </article>
 </Post>
