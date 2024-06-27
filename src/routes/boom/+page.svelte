@@ -25,6 +25,6 @@
     <h2 id="boom"><a href="#boom">BOOM!</a></h2>
     <p>Here we go</p>
     <p><ImgZoom src="/boom/300px-Kenning.png" alt="Boom"></ImgZoom></p>
-    <Youtube id="lcOxhH8N3Bo" />
+    <Youtube id="VMzuzMD6eF4" />
   </article>
 </Post>
