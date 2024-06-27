@@ -1,5 +1,5 @@
 ---
-title: Rain
+title: ⛈️ Rain
 description: An article on the aftermath of a tragedy.
 summary: It eventually subsides
 published: '2024-03-03T11:33:00.000-05:00'

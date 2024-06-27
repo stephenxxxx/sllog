@@ -48,7 +48,17 @@
         rel="author external"
         class="btn btn-ghost"
         aria-label="Email">
-        <div class="!w-[1.75rem] !h-[1.75rem] i-ic-baseline-mail" />
+        <div class="!w-[1.75rem] !h-[1.75rem] i-line-md-email" />
+      </a>
+    {/if}
+    {#if siteConfig.author.phone}
+      <a
+        use:tippy
+        href="mailto:{siteConfig.author.phone}"
+        rel="author external"
+        class="btn btn-ghost"
+        aria-label="Call Stephen">
+        <div class="!w-[1.75rem] !h-[1.75rem] i-line-md-phone-call-loop" />
       </a>
     {/if}
     {#if siteConfig.author.github}
@@ -103,7 +113,7 @@
     {/if}
     {#if siteConfig.author.mastodon}
       <a use:tippy href={siteConfig.author.mastodon} rel="me" class="u-url u-uid btn btn-ghost" aria-label="mastodon">
-        <div class="!w-[1.75rem] !h-[1.75rem] i-ri-mastodon-fill" />
+        <div class="!w-[1.75rem] !h-[1.75rem] i-line-md-mastodon" />
       </a>
     {/if}
     {#if siteConfig.author.steam}
