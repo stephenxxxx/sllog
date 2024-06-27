@@ -36,7 +36,7 @@ export const siteConfig: Site.Config = {
     cashapp: 'https://cash.app/$stephen730',
     github: 'https://github.com/djreefa',
     // bluesky: 'https://bsky.app/profile/sky.stephenlittleton.com',
-    phone: 'tel:17063159678',
+    phone: 'tel:+17063159678',
     facebook: 'https://www.facebook.com/buttheadandbeavis',
     twitter: 'https://x.com/djreefa',
     // flickr: 'https://flickr.com/stephen730/',
