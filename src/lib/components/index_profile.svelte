@@ -116,6 +116,11 @@
         <div class="!w-[1.75rem] !h-[1.75rem] i-line-md-facebook" />
       </a>
     {/if}
+    {#if siteConfig.author.vk}
+      <a use:tippy href={siteConfig.author.vk} rel="author external" class="u-url u-uid btn btn-ghost" aria-label="vk">
+        <div class="!w-[1.75rem] !h-[1.75rem] i-ri-vk-line" />
+      </a>
+    {/if}
     {#if siteConfig.author.steam}
       <a
         use:tippy
@@ -124,11 +129,6 @@
         class="u-url u-uid btn btn-ghost"
         aria-label="steam">
         <div class="!w-[1.75rem] !h-[1.75rem] i-ri-steam-fill" />
-      </a>
-    {/if}
-    {#if siteConfig.author.vk}
-      <a use:tippy href={siteConfig.author.vk} rel="author external" class="u-url u-uid btn btn-ghost" aria-label="vk">
-        <div class="!w-[1.75rem] !h-[1.75rem] i-ri-vk-line" />
       </a>
     {/if}
   </div>
