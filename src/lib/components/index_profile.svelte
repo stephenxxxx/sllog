@@ -54,7 +54,7 @@
     {#if siteConfig.author.phone}
       <a
         use:tippy
-        href="mailto:{siteConfig.author.phone}"
+        href="tel:{siteConfig.author.phone}"
         rel="author external"
         class="btn btn-ghost"
         aria-label="Call Stephen">
