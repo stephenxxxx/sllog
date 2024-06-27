@@ -37,7 +37,7 @@ export const siteConfig: Site.Config = {
     github: 'https://github.com/djreefa',
     // bluesky: 'https://bsky.app/profile/sky.stephenlittleton.com',
     phone: '+17063159678',
-    facebook: 'https://www.facebook.com/buttheadandbeavis',
+    // facebook: 'https://www.facebook.com/buttheadandbeavis',
     twitter: 'https://x.com/djreefa',
     // flickr: 'https://flickr.com/stephen730/',
     mastodon: 'https://mastodon.social/@djreefa',

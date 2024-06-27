@@ -91,16 +91,6 @@
         <div class="!w-[1.75rem] !h-[1.75rem] i-ri-bluesky-fill" />
       </a>
     {/if}
-    {#if siteConfig.author.facebook}
-      <a
-        use:tippy
-        href={siteConfig.author.facebook}
-        rel="author external"
-        class="u-url u-uid btn btn-ghost"
-        aria-label="facebook">
-        <div class="!w-[1.75rem] !h-[1.75rem] i-line-md-facebook" />
-      </a>
-    {/if}
     {#if siteConfig.author.flickr}
       <a
         use:tippy
@@ -114,6 +104,16 @@
     {#if siteConfig.author.mastodon}
       <a use:tippy href={siteConfig.author.mastodon} rel="me" class="u-url u-uid btn btn-ghost" aria-label="mastodon">
         <div class="!w-[1.75rem] !h-[1.75rem] i-line-md-mastodon" />
+      </a>
+    {/if}
+    {#if siteConfig.author.facebook}
+      <a
+        use:tippy
+        href={siteConfig.author.facebook}
+        rel="author external"
+        class="u-url u-uid btn btn-ghost"
+        aria-label="facebook">
+        <div class="!w-[1.75rem] !h-[1.75rem] i-line-md-facebook" />
       </a>
     {/if}
     {#if siteConfig.author.steam}
