@@ -111,17 +111,29 @@ Photo by <a href="https://unsplash.com/@marcojodoin?utm_source=unsplash&utm_medi
 
 ## 🚀 Greetings Earth Creatures.
 
-This site is a new project by me, Stephen Littleton, in order to catagorize and log all my thoughts postings, statuses and what not. I will eventually switch this into my main site.
+This site is a new project by me, Stephen Littleton, in order to catagorize and log all my thoughts postings, statuses and what not. It is now my main site and it works beautifully. It is a REACT HELMET project utilizing NEXT, NODE.JS, SVELTE, TAILWIND CSS, ICONIFY, and MUCH MORE!  
+
+## Does the name QWER mean anything to you?
+
+No, the QWER letter combination are just the first four letters of the QWERTY keyboard layout. Most of the time these projects are named by foreign people who have no clue what they might mean otherwise. I find it comical, somtimes.  
 
 <div class="my4 mx--8 sm:(mx0 rounded-2xl) flex gap4 items-center shadow-2xl bg-black/[0.25] px4 py6">
   <div>
     <div class="i-carbon-logo-github w6 h6"/>
   </div>
   <div>
-    <h2 class="!p0 !m0 !text-[1rem] sm:!text-[1.25rem] !font-700 underline"><a href="https://github.com/stephenxxxx/sllog">stephenxxxx/sllog</a></h2>
+    <h2 class="!p0 !m0 !text-[1rem] sm:!text-[1.25rem] !font-700 underline"><a href="https://github.com/djreefa/sllog">djreefa/sllog</a></h2>
     <p class="!p0 !m0 !text-[0.6rem] sm:!text-[0.8rem]">✒︎ Stephen Littleton's Log built with SvelteKit and Love ❤</p>
   </div>
 </div>
+
+## What do you mean these projects?
+
+I use templates which are basic structures with instructions on how to develop them either from scratch or how to edit them. Sometimes there are no instructions at all. All of the code must be understood to some degree in order to fully comprehend what you are changing and where to change it.
+
+## Does that mean you are not the author?
+
+Absolutely not. Using a template saves time. If you make any changes you now own the new version and can attribute it to yourself. Remember, we did not create the computer, protocols, or coding language upon which a website relies on. All of these things are reused. Coding is very hard work and even understanding it simply merits attribution.  
 
 ## 👋 Hello World from Python
 

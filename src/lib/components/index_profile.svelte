@@ -99,7 +99,7 @@
         rel="author external"
         class="u-url u-uid btn btn-ghost"
         aria-label="bluesky">
-        <div class="!w-[1.75rem] !h-[1.75rem] i-ri-bluesky-fill" />
+        <div class="!w-[1.75rem] !h-[1.75rem] i-ri-bluesky-line" />
       </a>
     {/if}
     {#if siteConfig.author.flickr}

@@ -126,7 +126,16 @@
     <h2 id="greetings-earth-creatures"><a href="#greetings-earth-creatures">🚀 Greetings Earth Creatures.</a></h2>
     <p>
       This site is a new project by me, Stephen Littleton, in order to catagorize and log all my thoughts postings,
-      statuses and what not. I will eventually switch this into my main site.
+      statuses and what not. It is now my main site and it works beautifully. It is a REACT HELMET project utilizing
+      NEXT, NODE.JS, SVELTE, TAILWIND CSS, ICONIFY, and MUCH MORE!
+    </p>
+    <h2 id="does-the-name-qwer-mean-anything-to-you">
+      <a href="#does-the-name-qwer-mean-anything-to-you">Does the name QWER mean anything to you?</a>
+    </h2>
+    <p>
+      No, the QWER letter combination are just the first four letters of the QWERTY keyboard layout. Most of the time
+      these projects are named by foreign people who have no clue what they might mean otherwise. I find it comical,
+      somtimes.
     </p>
     <div class="my4 mx--8 sm:(mx0 rounded-2xl) flex gap4 items-center shadow-2xl bg-black/[0.25] px4 py6">
       <div>
@@ -134,7 +143,7 @@
       </div>
       <div>
         <h2 class="!p0 !m0 !text-[1rem] sm:!text-[1.25rem] !font-700 underline">
-          <a href="https://github.com/stephenxxxx/sllog">stephenxxxx/sllog</a>
+          <a href="https://github.com/djreefa/sllog">djreefa/sllog</a>
         </h2>
         <p class="!p0 !m0 !text-[0.6rem] sm:!text-[0.8rem]">
           ✒︎ Stephen Littleton's Log built with SvelteKit and Love ❤
@@ -142,6 +151,23 @@
       </div>
     </div>
 
+    <h2 id="what-do-you-mean-these-projects">
+      <a href="#what-do-you-mean-these-projects">What do you mean these projects?</a>
+    </h2>
+    <p>
+      I use templates which are basic structures with instructions on how to develop them either from scratch or how to
+      edit them. Sometimes there are no instructions at all. All of the code must be understood to some degree in order
+      to fully comprehend what you are changing and where to change it.
+    </p>
+    <h2 id="does-that-mean-you-are-not-the-author">
+      <a href="#does-that-mean-you-are-not-the-author">Does that mean you are not the author?</a>
+    </h2>
+    <p>
+      Absolutely not. Using a template saves time. If you make any changes you now own the new version and can attribute
+      it to yourself. Remember, we did not create the computer, protocols, or coding language upon which a website
+      relies on. All of these things are reused. Coding is very hard work and even understanding it simply merits
+      attribution.
+    </p>
     <h2 id="hello-world-from-python"><a href="#hello-world-from-python">👋 Hello World from Python</a></h2>
     <div class="code-block titled showLineNumber">
       <h2 class="code-title">example.py</h2>
