@@ -82,16 +82,6 @@
         <div class="!w-[1.75rem] !h-[1.75rem] i-line-md-github-loop" />
       </a>
     {/if}
-    {#if siteConfig.author.twitter}
-      <a
-        use:tippy
-        href={siteConfig.author.twitter}
-        rel="author external"
-        class="u-url u-uid btn btn-ghost"
-        aria-label="Twitter">
-        <div class="!w-[1.75rem] !h-[1.75rem] i-line-md-twitter-x" />
-      </a>
-    {/if}
     {#if siteConfig.author.bluesky}
       <a
         use:tippy
@@ -100,6 +90,16 @@
         class="u-url u-uid btn btn-ghost"
         aria-label="bluesky">
         <div class="!w-[1.75rem] !h-[1.75rem] i-ri-bluesky-line" />
+      </a>
+    {/if}
+    {#if siteConfig.author.twitter}
+      <a
+        use:tippy
+        href={siteConfig.author.twitter}
+        rel="author external"
+        class="u-url u-uid btn btn-ghost"
+        aria-label="Twitter">
+        <div class="!w-[1.75rem] !h-[1.75rem] i-line-md-twitter-x" />
       </a>
     {/if}
     {#if siteConfig.author.flickr}
