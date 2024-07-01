@@ -43,7 +43,7 @@
       There are other mitigating factors that allowed me to come to such a damning opinion of the coin. I will bring
       those up at a later date.
     </p>
-    <p><Video mp4="/monday/video.mp4" id="Phone Emitting Waves and Blurred Skull Background" /></p>
+    <p><Video mp4="\monday\video.mp4" id="Phone Emitting Waves and Blurred Skull Background" /></p>
     <p>
       We were FOOLS to believe people wouldn&#39;t manipulate the market. Anything electronic and there will always be
       someone who feels like it&#39;s their own personal right to be able to trespass anywhere they please. We say zero

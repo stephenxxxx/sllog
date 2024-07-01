@@ -143,7 +143,7 @@
       goes one way.
     </p>
     <p>In the end? All this stuff? It&#39;s just a whirlwind of fists. As usual. Don&#39;t get sucked in.</p>
-    <p><ImgZoom src="/harassment/u1fa84_u1f32a-ufe0f.png" alt="whirlwind"></ImgZoom></p>
+    <p><ImgZoom src="\harassment\u1fa84_u1f32a-ufe0f.png" alt="whirlwind"></ImgZoom></p>
     <Youtube id="w0cDJ2kzQiM" />
   </article>
 </Post>

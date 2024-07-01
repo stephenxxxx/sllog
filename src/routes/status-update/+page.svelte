@@ -39,7 +39,7 @@
     </p>
     <p>I also work on servers. Game servers, webservers, you name it. I have tons of experience needed.</p>
     <h1 id="space-age-technology"><a href="#space-age-technology">Space Age Technology</a></h1>
-    <p><ImgZoom src="/status-update/F-16.jpg" alt="F-16 USAF Aircraft"></ImgZoom></p>
+    <p><ImgZoom src="\status-update\F-16.jpg" alt="F-16 USAF Aircraft"></ImgZoom></p>
     <p>
       Not only am I aware of the latest technology, I have no problem using and implementing it. I have a strong
       fundamental training base, this means that I recognize what these technologies are built on and am able to easily
@@ -72,7 +72,7 @@
       been there and I will be there as well.
     </p>
     <h1 id="night-shift"><a href="#night-shift">Night Shift</a></h1>
-    <p><ImgZoom src="/status-update/batupsidedown.webp" alt="Bat"></ImgZoom></p>
+    <p><ImgZoom src="\status-update\batupsidedown.webp" alt="Bat"></ImgZoom></p>
     <p>
       I&#39;d need to either participate in the night shift or have some type of odd hours as I&#39;ve become nocturnal.
       That really works out well, especially with computers you can offer a single day turnaround provided you don&#39;t
@@ -86,7 +86,7 @@
       chance to enjoy being nocturnal again so I am going to enjoy it while i can.
     </p>
     <h1 id="end-of-the-world"><a href="#end-of-the-world">End of the World</a></h1>
-    <p><ImgZoom src="/status-update/521713.jpeg" alt="Explosion"></ImgZoom></p>
+    <p><ImgZoom src="\status-update\521713.jpeg" alt="Explosion"></ImgZoom></p>
     <p>
       It seems like everything is coming to an end. Like everything is just exploding all around us. But it isn&#39;t.
       Reading about stuff like what&#39;s happening makes us think of tragedy close to home. We have to remember how
@@ -100,7 +100,7 @@
       you make that choice, that&#39;s it. Making threats to go to extremes means nothing if you perish, then the threat
       is pointless. It just becomes a snake eating its tail at that point.
     </p>
-    <p><ImgZoom src="/status-update/53067523217_ea4f235e5d_z.jpg" alt="Snake Eating Tail"></ImgZoom></p>
+    <p><ImgZoom src="\status-update\53067523217_ea4f235e5d_z.jpg" alt="Snake Eating Tail"></ImgZoom></p>
     <Youtube id="7zRNAetO2zU" />
   </article>
 </Post>

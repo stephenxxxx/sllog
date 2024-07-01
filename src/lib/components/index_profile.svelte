@@ -22,7 +22,7 @@
       role="tooltip"
       use:tippy={{ placement: 'right', interactive: true, allowHTML: true }}
       data-tippy-content={siteConfig.author.statusTip}
-      class="absolute rounded-full w-8 h-8 bottom-0 left-24 shadow-xl text-lg flex justify-center items-center animate-heart-beat">
+      class="absolute rounded-full w-8 h-8 bottom-0 left-24 shadow-xl text-lg flex justify-center items-center animate-pulse 3s infinite">
       {siteConfig.author.status ?? ''}
     </div>
   </div>
@@ -36,9 +36,29 @@
   </p>
 
   <div class="flex">
+    {#if siteConfig.author.phone}
+      <a
+        use:tippy
+        href="tel:{siteConfig.author.phone}"
+        rel="telephone"
+        class="btn btn-ghost"
+        aria-label="Call Stephen">
+        <div class="!w-[1.75rem] !h-[1.75rem] i-line-md-phone-call-loop" />
+      </a>
+    {/if}
     {#if siteConfig.author.cashapp}
       <a use:tippy href={siteConfig.author.cashapp} rel="author external" class="btn btn-ghost" aria-label="cashapp">
         <div class="!w-[1.75rem] !h-[1.75rem] i-simple-icons-cashapp" style="color: #00D632" />
+      </a>
+    {/if}
+    {#if siteConfig.author.text}
+      <a
+        use:tippy
+        href="sms:{siteConfig.author.text}"
+        rel="telephone"
+        class="btn btn-ghost"
+        aria-label="Text Stephen">
+        <div class="!w-[1.75rem] !h-[1.75rem] i-line-md-chat" />
       </a>
     {/if}
     {#if siteConfig.author.email}
@@ -51,16 +71,7 @@
         <div class="!w-[1.75rem] !h-[1.75rem] i-line-md-email" />
       </a>
     {/if}
-    {#if siteConfig.author.phone}
-      <a
-        use:tippy
-        href="tel:{siteConfig.author.phone}"
-        rel="author external"
-        class="btn btn-ghost"
-        aria-label="Call Stephen">
-        <div class="!w-[1.75rem] !h-[1.75rem] i-line-md-phone-call-loop" />
-      </a>
-    {/if}
+    
     {#if siteConfig.author.github}
       <a
         use:tippy

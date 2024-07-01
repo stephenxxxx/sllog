@@ -82,7 +82,7 @@
       localized regions of high metal concentrations&quot;. Radar observations of the asteroid from Earth indicate an
       iron–nickel composition.
     </p>
-    <p><ImgZoom src="/psyche/Psyche_Orbital_Operations.jpeg" alt="Orbital Operations"></ImgZoom></p>
+    <p><ImgZoom src="\psyche\Psyche_Orbital_Operations.jpeg" alt="Orbital Operations"></ImgZoom></p>
     <h1 id="mission-overview"><a href="#mission-overview">📑 Mission overview</a></h1>
     <p>
       <strong>The Psyche spacecraft</strong>
@@ -139,7 +139,7 @@
 
     <p>
       <ImgZoom
-        src="/psyche/SPacecraft_Psyches_Thruster_Integration_Underway_PIA24789.jpeg"
+        src="\psyche\SPacecraft_Psyches_Thruster_Integration_Underway_PIA24789.jpeg"
         alt="Psyche&#39;s thruster integration underway"></ImgZoom>
     </p>
     <h2 id="instruments-onboard-of-the-spacecraft">
@@ -190,7 +190,7 @@
       should begin about 60 days after launch. The test-runs of the laser equipment will occur over distances of 0.1 to
       2.5 astronomical units (AU) on the outward-bound probe.
     </p>
-    <p><ImgZoom src="/psyche/Psyches_Mission_Plan.jpeg" alt="Mission Plan"></ImgZoom></p>
+    <p><ImgZoom src="\psyche\Psyches_Mission_Plan.jpeg" alt="Mission Plan"></ImgZoom></p>
     <h3 id="specifically-the-science-goals-for-the-mission-are">
       <a href="#specifically-the-science-goals-for-the-mission-are">
         🪧 Specifically, the science goals for the mission are:
@@ -205,8 +205,8 @@
       <li>Explore a new type of world, made of metal.</li>
     </ul>
     <p>
-      <ImgZoom src="/psyche/Animation_of_Psyche_around_Sun.gif" alt="Around The Sun"></ImgZoom>
-      <ImgZoom src="/psyche/Animation_of_Psyche_around_16_Psyche.gif" alt="Around 16 Psyche"></ImgZoom>
+      <ImgZoom src="\psyche\Animation_of_Psyche_around_Sun.gif" alt="Around The Sun"></ImgZoom>
+      <ImgZoom src="\psyche\Animation_of_Psyche_around_16_Psyche.gif" alt="Around 16 Psyche"></ImgZoom>
     </p>
     <h3 id="the-science-questions-this-mission-aims-to-address-are">
       <a href="#the-science-questions-this-mission-aims-to-address-are">
@@ -229,7 +229,7 @@
       </li>
       <li>How do craters on a metal body differ from those in rock or ice? 🛸</li>
     </ul>
-    <p><ImgZoom src="/psyche/Psyche_insignia.svg" alt="Psyche Insignia"></ImgZoom></p>
+    <p><ImgZoom src="\psyche\Psyche_insignia.svg" alt="Psyche Insignia"></ImgZoom></p>
     <Youtube id="lMFbHb_3e6Q" />
 
     <h1 id="credits"><a href="#credits">Credits</a></h1>
@@ -240,6 +240,6 @@
       <li><a href="https://psyche.asu.edu/" rel="external">Psyche - ASU Site</a></li>
       <li><a href="https://www.nasa.gov/psyche" rel="external">Psyche - NASA Site</a></li>
     </ul>
-    <p><ImgZoom src="/psyche/Psyche_Liftoff.jpeg" alt="LIFTOFF"></ImgZoom></p>
+    <p><ImgZoom src="\psyche\Psyche_Liftoff.jpeg" alt="LIFTOFF"></ImgZoom></p>
   </article>
 </Post>

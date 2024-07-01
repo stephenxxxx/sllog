@@ -34,7 +34,7 @@
       solution is so easy, it should be mandatory, however, they must want an economy of spies.
     </p>
     <h2 id="making-the-switch"><a href="#making-the-switch">Making the Switch</a></h2>
-    <p><ImgZoom src="/telegram/Y2MIPGOKEZJ7FJBUKZ5O7SEKRE.avif" alt="Telegram Messenger"></ImgZoom></p>
+    <p><ImgZoom src="\telegram\Y2MIPGOKEZJ7FJBUKZ5O7SEKRE.avif" alt="Telegram Messenger"></ImgZoom></p>
     <p>
       SO... Telegram it is. All of you that look at encrypting messages as if they are some type of evil, I beseech you
       to please take into consideration the fact that regular communication can be often overlooked and misinterpreted.
@@ -43,7 +43,7 @@
       simply ensures that a level playing field is accomplished when wanting a secure line of communication for the
       average person.
     </p>
-    <p><ImgZoom src="/telegram/R1605G_BIRKINSHAW-383x215.jpg" alt="Sinking Ship"></ImgZoom></p>
+    <p><ImgZoom src="\telegram\R1605G_BIRKINSHAW-383x215.jpg" alt="Sinking Ship"></ImgZoom></p>
     <p>
       I use it mainly for my family. I talk about sensitive subjects between family and I wouldn&#39;t want someone who
       shouldn&#39;t know that stuff knowing it... RIGHT? So that&#39;s the main and really my only reason. I pretend
@@ -52,7 +52,7 @@
     </p>
     <h1 id="surfshark-update"><a href="#surfshark-update">SurfShark Update</a></h1>
     <p>
-      <ImgZoom src="/telegram/08aff3a22157204b3d6c26b4e1a70cc041216bb8.avif" alt="Surfing With The Shark"></ImgZoom>
+      <ImgZoom src="\telegram\08aff3a22157204b3d6c26b4e1a70cc041216bb8.avif" alt="Surfing With The Shark"></ImgZoom>
     </p>
     <p>
       I think this image came from digital ocean when I hit a 404 or something. Heh, but I am still surfing with the
@@ -70,7 +70,7 @@
     <p>It&#39;s slight little changes, its the proper choices that make all the difference in the world.</p>
     <p>
       <ImgZoom
-        src="/telegram/2aRc9MSDbkH-s6Do22mzH45FhTjzOA4blBDDX7HcINvWLGytrrcOeb9bhVCTT6cuNZitClC7ENABvkMBwkMQQLiZWjoSEjPpVXuJkA.avif"
+        src="\telegram\2aRc9MSDbkH-s6Do22mzH45FhTjzOA4blBDDX7HcINvWLGytrrcOeb9bhVCTT6cuNZitClC7ENABvkMBwkMQQLiZWjoSEjPpVXuJkA.avif"
         alt="Mandala"></ImgZoom>
     </p>
   </article>

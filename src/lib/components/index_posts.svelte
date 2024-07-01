@@ -51,7 +51,7 @@
       in:fade|global={{ duration: 300, delay: 300 }}
       out:fade|global={{ duration: 300 }}>
       <h2 class="text-3xl">{$LL.LoadingPosts()}</h2>
-      <div class="i-line-md-loading-twotone-loop !h-16 !w-16" />
+      <div class="i-svg-spinners-12-dots-scale-rotate !h-16 !w-16" />
     </div>
   {/if}
 </main>

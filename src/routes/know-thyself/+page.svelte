@@ -57,6 +57,6 @@
       solid foundation, it&#39;s a lot easier to stand firm and true. Especially if your ideals are pure and are of good
       intent.
     </p>
-    <p><ImgZoom src="/know-thyself/perl600span.webp" alt="Flag"></ImgZoom></p>
+    <p><ImgZoom src="\know-thyself\perl600span.webp" alt="Flag"></ImgZoom></p>
   </article>
 </Post>

@@ -32,7 +32,7 @@
         {width}
         {height}
         class={className ??
-          'rounded-full shadow-xl !w-32 !h-32 aspect-auto object-cover hover:rotate-[1080deg] transition-transform duration-1000 ease-in-out'} />
+          'rounded-full ring-2 ring-gray-300 dark:ring-gray-500 shadow-xl !w-32 !h-32 aspect-auto object-cover'} />
     </picture>
   {:else}
     <div class="i-line-md-downloading-loop {className ?? '!h-32 !w-32'}" />
